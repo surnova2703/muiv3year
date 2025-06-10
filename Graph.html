@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Граф</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    #controls { padding: 10px; background: #e8f5e9; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .container { display: flex; height: calc(100vh - 70px); }
+    .panel { padding: 10px; overflow-y: auto; }
+    #left-panel { width: 25%; background: #f0f9f0; border-right: 1px solid #ccc; }
+    #right-panel { width: 25%; background: #f9f9f9; border-left: 1px solid #ccc; }
+    #network { flex-grow: 1; height: 100%; }
+    #network canvas { border: 1px solid #ccc; }
+    select, button, input[type="file"] {
+      font-size: 14px;
+      padding: 5px 10px;
+    }
+    button { background: #4CAF50; color: white; border: none; cursor: pointer; }
+    button:hover { background: #388E3C; }
+    button.secondary { background: #2196F3; }
+    button.secondary:hover { background: #1976D2; }
+    h4 { margin-bottom: 5px; }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <input type="file" id="fileInput" accept=".xml" />
+    <select id="filterSelect">
+      <option value="all">Все связи</option>
+      <option value="related">Только related</option>
+      <option value="seealso">Только seealso</option>
+      <option value="metadata">Только метаданные</option>
+      <option value="familyRelation">Только семейные связи</option>
+    </select>
+    <button id="showBtn" style="display:none;">Обновить граф</button>
+    <button id="fitBtn" style="display:none;" class="secondary">Показать весь граф</button>
+    <button id="exportBtn" style="display:none;">Экспорт в SVG</button>
+  </div>
+
+  <div class="container">
+    <div id="left-panel" class="panel">
+      <h3>Описание узла</h3>
+      <div id="termInfo">Выберите вершину</div>
+      <div id="propertyBox"></div>
+    </div>
+    <div id="network"></div>
+    <div id="right-panel" class="panel">
+      <h3>Текст статьи</h3>
+      <div id="articleText">Будет загружен из XML</div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <script>
+    let fullData = null;
+    let descriptions = {};
+    let article = "";
+    let allEdges = [];
+    let network = null;
+
+    document.getElementById("fileInput").addEventListener("change", function (event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(e.target.result, "application/xml");
+
+        // Извлекаем все RDF описания
+        const allDescriptions = xml.querySelectorAll("rdf\\:Description");
+        console.log("Найдено RDF описаний:", allDescriptions.length);
+
+        const centralNode = xml.querySelector("rdf\\:Description > rdfs\\:label")?.textContent || "Центральный термин";
+        const articleValue = xml.querySelector("lbm\\:property[rdf\\:resource$='article'] lbm\\:value");
+        article = articleValue?.textContent || "Текст статьи не найден";
+        document.getElementById("articleText").textContent = article;
+
+        // Все свойства (включая скрытые)
+        const properties = xml.querySelectorAll("lbm\\:property");
+        const propertyBox = document.getElementById("propertyBox");
+        propertyBox.innerHTML = "<h4>Все свойства из XML:</h4><ul>";
+        properties.forEach(p => {
+          const type = p.getAttribute("rdf:resource")?.split("/").pop();
+          const value = p.querySelector("lbm\\:value")?.textContent;
+          if (type && value) {
+            propertyBox.innerHTML += `<li><strong>${type}:</strong> ${value}</li>`;
+          }
+        });
+
+        // Добавляем все атрибуты главного элемента
+        const mainDesc = xml.querySelector("rdf\\:Description");
+        if (mainDesc) {
+          propertyBox.innerHTML += "<li><strong>rdf:about:</strong> " + (mainDesc.getAttribute("rdf:about") || "не указан") + "</li>";
+          Array.from(mainDesc.attributes).forEach(attr => {
+            if (attr.name !== "rdf:about") {
+              propertyBox.innerHTML += `<li><strong>${attr.name}:</strong> ${attr.value}</li>`;
+            }
+          });
+        }
+        propertyBox.innerHTML += "</ul>";
+
+        // Узлы
+        const nodes = [{
+          id: "main",
+          label: centralNode,
+          color: { background: "#4CAF50", border: "#2E7D32" },
+          size: 30
+        }];
+        descriptions["main"] = `<strong>${centralNode}</strong><br>Центральное понятие<br>URI: ${mainDesc?.getAttribute("rdf:about") || "не указан"}`;
+
+        // Все связи (familyRelation)
+        const links = xml.querySelectorAll("lbm\\:familyRelation");
+        let counter = 1;
+        allEdges = [];
+        links.forEach(link => {
+          const type = link.getAttribute("type");
+          const valueNode = link.querySelector("lbm\\:value");
+          const resource = valueNode?.getAttribute("rdf:resource");
+          const label = resource?.split("/").pop().replace(/_/g, " ") || "Понятие " + counter;
+
+          const nodeId = "node" + counter++;
+          nodes.push({
+            id: nodeId,
+            label,
+            color: { 
+              background: type === "related" ? "#81C784" : type === "seealso" ? "#64B5F6" : "#A5D6A7", 
+              border: "#2E7D32" 
+            },
+            size: 20
+          });
+          descriptions[nodeId] = `<strong>${label}</strong><br>Тип связи: <em>${type}</em><br>URI: ${resource || "не указан"}`;
+          allEdges.push({
+            from: "main",
+            to: nodeId,
+            dashes: type === "seealso",
+            type,
+            label: type,
+            color: type === "related" ? "#4CAF50" : type === "seealso" ? "#2196F3" : "#999"
+          });
+        });
+
+        // Дополнительные элементы и связи
+        const allElements = xml.querySelectorAll("*");
+        console.log("Всего элементов в XML:", allElements.length);
+        
+        // Ищем дополнительные связи и данные
+        allElements.forEach(el => {
+          const tagName = el.tagName;
+          if (tagName && !tagName.includes("rdf:") && !tagName.includes("rdfs:") && 
+              !tagName.includes("lbm:property") && !tagName.includes("lbm:familyRelation") && 
+              !tagName.includes("lbm:value") && el.textContent.trim()) {
+            
+            const nodeId = "extra" + counter++;
+            const content = el.textContent.trim();
+            if (content.length > 0 && content.length < 100) { // Избегаем очень длинные тексты
+              nodes.push({
+                id: nodeId,
+                label: `${tagName}: ${content.substring(0, 30)}${content.length > 30 ? '...' : ''}`,
+                color: { background: "#FFECB3", border: "#FF8F00" },
+                size: 15
+              });
+              descriptions[nodeId] = `<strong>${tagName}</strong><br>${content}`;
+              allEdges.push({
+                from: "main",
+                to: nodeId,
+                dashes: true,
+                type: "metadata",
+                label: "метаданные",
+                color: "#FF9800"
+              });
+            }
+          }
+        });
+
+        fullData = { nodes: new vis.DataSet(nodes), edges: new vis.DataSet(allEdges) };
+        document.getElementById("showBtn").style.display = "inline-block";
+        document.getElementById("fitBtn").style.display = "inline-block";
+        document.getElementById("exportBtn").style.display = "inline-block";
+        
+        // Автоматически создать граф после загрузки данных
+        createNetwork();
+      };
+      reader.readAsText(file);
+    });
+
+    function createNetwork() {
+      const typeFilter = document.getElementById("filterSelect").value;
+      const container = document.getElementById("network");
+      container.innerHTML = "";
+
+      const edgesToShow = typeFilter === "all"
+        ? allEdges
+        : typeFilter === "familyRelation" 
+        ? allEdges.filter(e => e.type === "related" || e.type === "seealso")
+        : allEdges.filter(e => e.type === typeFilter);
+
+      network = new vis.Network(container, {
+        nodes: fullData.nodes,
+        edges: new vis.DataSet(edgesToShow)
+      }, {
+        nodes: {
+          shape: "dot",
+          size: 20,
+          font: { size: 16, face: "Arial", color: "#1B5E20" }
+        },
+        edges: {
+          arrows: "to",
+          color: { color: "#999" }
+        },
+        physics: { 
+          stabilization: { iterations: 100 },
+          enabled: true
+        },
+        layout: {
+          improvedLayout: true
+        }
+      });
+
+      network.on("click", function (params) {
+        const nodeId = params.nodes[0];
+        document.getElementById("termInfo").innerHTML = nodeId && descriptions[nodeId]
+          ? descriptions[nodeId]
+          : "Выберите вершину";
+      });
+
+      // Автоматически подогнать граф после стабилизации
+      network.on("stabilizationIterationsDone", function() {
+        network.fit({
+          animation: {
+            duration: 1000,
+            easingFunction: "easeInOutQuad"
+          }
+        });
+      });
+    }
+
+    document.getElementById("showBtn").addEventListener("click", createNetwork);
+
+    // Кнопка для подгонки всего графа
+    document.getElementById("fitBtn").addEventListener("click", function() {
+      if (network) {
+        network.fit({
+          animation: {
+            duration: 1000,
+            easingFunction: "easeInOutQuad"
+          }
+        });
+      }
+    });
+
+    // Обновить граф при изменении фильтра
+    document.getElementById("filterSelect").addEventListener("change", function() {
+      if (network && fullData) {
+        createNetwork();
+      }
+    });
+
+    document.getElementById("exportBtn").addEventListener("click", function () {
+      const svgCanvas = document.querySelector("#network canvas");
+      const svgData = svgCanvas?.toDataURL("image/svg+xml");
+      if (!svgData) return alert("Невозможно экспортировать SVG.");
+      const link = document.createElement("a");
+      link.href = svgData;
+      link.download = "graph.svg";
+      link.click();
+    });
+  </script>
+</body>
+</html>
