@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Визуализация статей</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <link rel="stylesheet" href="vkr1_styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="panel">
+      <h1>Карта и граф статей</h1>
+      <p class="hint">Данные берутся из локальной базы IndexedDB. В базу можно загрузить JSON или CSV, а затем строить карту и граф по сохранённым статьям.</p>
+
+      <section class="section no-border">
+        <h2>База данных</h2>
+        <div class="field">
+          <label for="fileInput">Загрузить файл в базу</label>
+          <input id="fileInput" type="file" accept=".json,.csv,application/json,text/csv" multiple />
+        </div>
+        <div class="row">
+          <button id="importBtn">Импортировать</button>
+          <button id="exportDbBtn" class="secondary">Экспорт базы</button>
+        </div>
+        <div class="row">
+          <button id="demoDbBtn" class="secondary">Демо в базу</button>
+          <button id="clearDbBtn" class="danger">Очистить базу</button>
+        </div>
+
+      </section>
+
+      <section class="section">
+        <h2>Просмотр</h2>
+        <div class="row"><button id="mapViewBtn">Карта</button><button id="graphViewBtn" class="secondary">Граф</button></div>
+      </section>
+
+      <section class="section">
+        <h2>Фильтрация</h2>
+        <div class="entity-filters">
+          <select id="filterYearSelect" aria-label="Фильтр по году"><option value="">Все годы</option></select>
+          <select id="filterJournalSelect" aria-label="Фильтр по журналу"><option value="">Все журналы</option></select>
+          <select id="filterAuthorSelect" aria-label="Фильтр по автору"><option value="">Все авторы</option></select>
+          <select id="filterAffiliationSelect" aria-label="Фильтр по аффилиации"><option value="">Все аффилиации</option></select>
+        </div>
+      </section>
+
+      <div id="status">Инициализация базы данных...</div>
+
+      <section class="section">
+        <h2>Статистика</h2>
+        <div class="stat-grid">
+          <div class="stat-card"><div class="stat-label">В базе</div><div id="dbCount" class="stat-value">0</div></div>
+          <div class="stat-card"><div class="stat-label">На экране</div><div id="shownCount" class="stat-value">0</div></div>
+          <div class="stat-card"><div class="stat-label">С координатами</div><div id="geoCount" class="stat-value">0</div></div>
+          <div class="stat-card"><div class="stat-label">Институтов</div><div id="linksCount" class="stat-value">0</div></div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Список статей</h2>
+        <div id="articleList" class="article-list"></div>
+      </section>
+
+      <section class="section">
+        <h2>Анализ данных</h2>
+        <div class="row"><button id="downloadAnalysisBtn" class="secondary">Скачать анализ</button></div>
+        <div class="analysis-card"><h3>До обработки</h3><p id="rawMeta" class="meta">Сырые данные ещё не загружены.</p><pre id="rawData" class="analysis-pre">[]</pre></div>
+        <div class="analysis-card"><h3>После обработки</h3><p id="processedMeta" class="meta">Обработка ещё не выполнялась.</p><pre id="processedData" class="analysis-pre">[]</pre></div>
+      </section>
+    </aside>
+
+    <main id="mapView" class="view">
+      <div class="view-shell">
+        <div class="view-header"><div><h2 class="view-title">Карта статей</h2><p class="view-subtitle">Точки показывают аффилиации авторов, у которых есть координаты.</p></div><div class="view-badge">Режим карты</div></div>
+        <div class="view-body"><div id="mapPlot"></div></div>
+      </div>
+    </main>
+
+    <main id="graphView" class="view" hidden>
+      <div class="view-shell">
+        <div class="view-header"><div><h2 class="view-title">Граф статей</h2><p class="view-subtitle">Связи строятся по авторам, темам, журналам, ключевым словам и аффилиациям.</p></div><div class="view-badge">Режим графа</div></div>
+        <div class="graph-toolbar">
+          <select id="graphModeSelect" class="graph-mode-select">
+            <option value="overview">Годы + журналы + статьи + авторы + аффилиации</option>
+            <option value="yearJournal">Годы + журналы + статьи</option>
+            <option value="authors">Статьи + авторы</option>
+            <option value="affiliations">Статьи + аффилиации</option>
+            <option value="similarity">Похожие статьи</option>
+          </select>
+        </div>
+        <div class="graph-wrap"><svg id="graphSvg" class="graph-svg" viewBox="0 0 1400 900" preserveAspectRatio="xMidYMid meet"></svg></div>
+      </div>
+    </main>
+
+    <aside class="panel">
+      <section id="selectedArticleSection" class="section no-border">
+        <h2>Выбранная статья</h2>
+        <div id="selectedArticleBox"></div>
+      </section>
+
+      <h2>Похожие статьи</h2>
+      <p class="hint">Материалы ранжируются по степени сходства с выбранной статьёй.</p>
+      <div id="rankedRelatedBox" class="rank-card"><div class="empty">Выберите статью, чтобы увидеть похожие материалы.</div></div>
+      <section class="section">
+        <h2>Контекст связей</h2>
+        <div id="graphDetails" class="empty">Выберите статью, чтобы увидеть подробности связей.</div>
+      </section>
+    </aside>
+  </div>
+  <script src="vkr1_app.js"></script>
+</body>
+</html>
