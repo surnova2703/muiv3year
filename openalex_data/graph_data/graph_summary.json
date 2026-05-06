@@ -1,0 +1,20 @@
+{
+  "nodes": {
+    "years": 88,
+    "publications": 1000,
+    "journals": 444,
+    "persons": 3734,
+    "affiliations": 3645
+  },
+  "edges": {
+    "year_publication": 1000,
+    "journal_publication": 1000,
+    "publication_person": 4336,
+    "publication_affiliation": 4916,
+    "person_affiliation": 9477,
+    "publication_topic": 2594,
+    "publication_keyword": 11105
+  },
+  "total_nodes": 8911,
+  "total_edges": 34428
+}

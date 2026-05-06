@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Визуализация статей</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <link rel="stylesheet" href="vkr1_styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="panel">
+      <button id="themeToggleBtn" class="theme-toggle">🌙 Тёмная тема</button>
+      <h1>Визуализация науки</h1>
+
+      <section class="section no-border">
+        <h2>Просмотр</h2>
+        <div class="row">
+          <button id="mapViewBtn">Карта</button>
+          <button id="graphViewBtn" class="secondary">Граф</button>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Фильтрация</h2>
+        <div class="entity-filters">
+          <select id="filterYearSelect" aria-label="Фильтр по году"><option value="">Все годы</option></select>
+          <select id="filterJournalSelect" aria-label="Фильтр по журналу"><option value="">Все журналы</option></select>
+          <select id="filterAuthorSelect" aria-label="Фильтр по автору"><option value="">Все авторы</option></select>
+          <select id="filterAffiliationSelect" aria-label="Фильтр по аффилиации"><option value="">Все аффилиации</option></select>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Список статей</h2>
+        <div id="articleList" class="article-list"></div>
+      </section>
+
+      <div class="panel-bottom">
+        <div class="row">
+          <button id="dbViewBtn" class="secondary">База данных</button>
+        </div>
+      </div>
+    </aside>
+
+    <main id="mapView" class="view">
+      <div class="view-shell">
+        <div class="view-header"><div><h2 class="view-title">Карта статей</h2><p class="view-subtitle">Точки показывают аффилиации авторов, у которых есть координаты.</p></div><div class="view-badge">Режим карты</div></div>
+        <div class="view-body"><div id="mapPlot"></div></div>
+      </div>
+    </main>
+
+    <main id="graphView" class="view" hidden>
+      <div class="view-shell">
+        <div class="view-header"><div><h2 class="view-title">Граф статей</h2></div><div class="view-badge">Режим графа</div></div>
+        <div class="graph-toolbar">
+          <select id="graphModeSelect" class="graph-mode-select">
+            <option value="overview">Годы + журналы + статьи + авторы + аффилиации</option>
+            <option value="yearJournal">Годы + журналы + статьи</option>
+            <option value="authors">Статьи + авторы</option>
+            <option value="affiliations">Статьи + аффилиации</option>
+            <option value="similarity">Похожие статьи</option>
+          </select>
+        </div>
+        <div class="graph-wrap"><svg id="graphSvg" class="graph-svg" viewBox="0 0 1400 900" preserveAspectRatio="xMidYMid meet"></svg></div>
+      </div>
+    </main>
+
+    <aside class="panel">
+      <section id="selectedArticleSection" class="section no-border">
+        <h2>Выбранная статья</h2>
+        <div id="selectedArticleBox"></div>
+      </section>
+
+      <h2>Похожие статьи</h2>
+      <div id="rankedRelatedBox" class="rank-card"><div class="empty">Выберите статью, чтобы увидеть похожие материалы.</div></div>
+      <section class="section">
+        <h2>Контекст связей</h2>
+        <div id="graphDetails" class="empty">Выберите статью, чтобы увидеть подробности связей.</div>
+      </section>
+    </aside>
+  </div>
+
+  <section id="dbView" class="db-bottom-panel" hidden>
+    <div class="db-bottom-inner">
+      <div class="db-bottom-header">
+        <h2 class="view-title">База данных</h2>
+        <button id="dbCloseBtn" class="secondary db-close-btn">Закрыть</button>
+      </div>
+      <div class="db-view-body">
+        <div class="db-card">
+          <h3>Загрузить данные</h3>
+          <div class="field">
+            <label for="fileInput">Выбрать файл (.json или .csv)</label>
+            <input id="fileInput" type="file" accept=".json,.csv,application/json,text/csv" multiple />
+          </div>
+          <div class="row">
+            <button id="importBtn">Импортировать</button>
+            <button id="demoDbBtn" class="secondary">Загрузить демо</button>
+          </div>
+        </div>
+        <div class="db-card">
+          <h3>Управление базой</h3>
+          <div class="row">
+            <button id="exportDbBtn" class="secondary">Экспортировать базу</button>
+            <button id="clearDbBtn" class="danger">Очистить базу</button>
+          </div>
+        </div>
+        <div class="db-card">
+          <h3>Состояние</h3>
+          <div id="status">Инициализация базы данных...</div>
+          <div class="stat-grid" style="margin-top:12px;">
+            <div class="stat-card"><div class="stat-label">В базе</div><div id="dbCount" class="stat-value">0</div></div>
+            <div class="stat-card"><div class="stat-label">На экране</div><div id="shownCount" class="stat-value">0</div></div>
+            <div class="stat-card"><div class="stat-label">С координатами</div><div id="geoCount" class="stat-value">0</div></div>
+            <div class="stat-card"><div class="stat-label">Институтов</div><div id="linksCount" class="stat-value">0</div></div>
+          </div>
+        </div>
+        <div class="db-card">
+          <h3>Анализ данных</h3>
+          <div class="row"><button id="downloadAnalysisBtn" class="secondary">Скачать анализ</button></div>
+          <div class="analysis-card" style="margin-top:10px;"><h3>До обработки</h3><p id="rawMeta" class="meta">Сырые данные ещё не загружены.</p><pre id="rawData" class="analysis-pre">[]</pre></div>
+          <div class="analysis-card"><h3>После обработки</h3><p id="processedMeta" class="meta">Обработка ещё не выполнялась.</p><pre id="processedData" class="analysis-pre">[]</pre></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="vkr1_app.js"></script>
+  <script>
+    (function () {
+      const btn = document.getElementById("themeToggleBtn");
+      const root = document.documentElement;
+      const saved = localStorage.getItem("theme");
+      if (saved === "dark") {
+        root.setAttribute("data-theme", "dark");
+        btn.textContent = "☀️ Светлая тема";
+      }
+      btn.addEventListener("click", function () {
+        const isDark = root.getAttribute("data-theme") === "dark";
+        if (isDark) {
+          root.removeAttribute("data-theme");
+          btn.textContent = "🌙 Тёмная тема";
+          localStorage.setItem("theme", "light");
+        } else {
+          root.setAttribute("data-theme", "dark");
+          btn.textContent = "☀️ Светлая тема";
+          localStorage.setItem("theme", "dark");
+        }
+        if (typeof scheduleMapAndGraph === "function") scheduleMapAndGraph();
+      });
+    })();
+  </script>
+</body>
+</html>
