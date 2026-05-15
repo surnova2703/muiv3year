@@ -19,6 +19,9 @@
           <button id="mapViewBtn">Карта</button>
           <button id="graphViewBtn" class="secondary">Граф</button>
         </div>
+        <div class="row" style="margin-top:6px;">
+          <button id="analysisViewBtn" class="secondary">Анализ</button>
+        </div>
       </section>
 
       <section class="section">
@@ -47,6 +50,38 @@
       <div class="view-shell">
         <div class="view-header"><div><h2 class="view-title">Карта статей</h2><p class="view-subtitle">Точки показывают аффилиации авторов, у которых есть координаты.</p></div><div class="view-badge">Режим карты</div></div>
         <div class="view-body"><div id="mapPlot"></div></div>
+      </div>
+    </main>
+
+    <main id="analysisView" class="view" hidden>
+      <div class="view-shell">
+        <div class="view-header">
+          <div><h2 class="view-title">Анализ публикационной активности</h2><p class="view-subtitle">Данные из локальной базы OpenAlex: 1 000 публикаций, 444 журнала</p></div>
+          <div class="view-badge">Режим анализа</div>
+        </div>
+        <div class="view-body analysis-body">
+          <div class="analysis-layout">
+            <div class="analysis-chart-card">
+              <h3 class="analysis-card-title">Публикационная активность по годам (2000–2024)</h3>
+              <div id="yearChart"></div>
+            </div>
+            <div class="analysis-chart-card">
+              <h3 class="analysis-card-title">Тематические сдвиги: 2000–2012 vs 2013–2024</h3>
+              <div id="shiftChart"></div>
+            </div>
+            <div class="analysis-chart-card analysis-wide">
+              <h3 class="analysis-card-title">Устойчивые и периферийные темы по журналам</h3>
+              <div id="journalChart"></div>
+            </div>
+            <div class="analysis-chart-card analysis-wide" id="journalDetailSection">
+              <h3 class="analysis-card-title">Детали по журналу</h3>
+              <div class="journal-selector-row">
+                <select id="journalDetailSelect" class="graph-mode-select" style="max-width:420px;"></select>
+              </div>
+              <div id="journalDetailContent"></div>
+            </div>
+          </div>
+        </div>
       </div>
     </main>
 
@@ -127,6 +162,7 @@
   </section>
 
   <script src="vkr1_app.js"></script>
+  <script src="analysis.js"></script>
   <script>
     (function () {
       const btn = document.getElementById("themeToggleBtn");
