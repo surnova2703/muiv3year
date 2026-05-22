@@ -1,0 +1,4442 @@
+[
+  {
+    "id": "journal:name:2005 ieee computer society conference on computer vision and pattern recognition (cvpr'05)",
+    "type": "journal",
+    "journal_id": "name:2005 ieee computer society conference on computer vision and pattern recognition (cvpr'05)",
+    "label": "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)",
+    "name": "2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4363607795",
+    "type": "journal",
+    "journal_id": "S4363607795",
+    "label": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
+    "name": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
+    "issn_l": null,
+    "source_type": "conference",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2014 ieee conference on computer vision and pattern recognition",
+    "type": "journal",
+    "journal_id": "name:2014 ieee conference on computer vision and pattern recognition",
+    "label": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+    "name": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2015 ieee conference on computer vision and pattern recognition (cvpr)",
+    "type": "journal",
+    "journal_id": "name:2015 ieee conference on computer vision and pattern recognition (cvpr)",
+    "label": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "name": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2015 ieee international conference on computer vision (iccv)",
+    "type": "journal",
+    "journal_id": "name:2015 ieee international conference on computer vision (iccv)",
+    "label": "2015 IEEE International Conference on Computer Vision (ICCV)",
+    "name": "2015 IEEE International Conference on Computer Vision (ICCV)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2016 ieee conference on computer vision and pattern recognition (cvpr)",
+    "type": "journal",
+    "journal_id": "name:2016 ieee conference on computer vision and pattern recognition (cvpr)",
+    "label": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "name": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2017 ieee conference on computer vision and pattern recognition (cvpr)",
+    "type": "journal",
+    "journal_id": "name:2017 ieee conference on computer vision and pattern recognition (cvpr)",
+    "label": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "name": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2017 ieee international conference on computer vision (iccv)",
+    "type": "journal",
+    "journal_id": "name:2017 ieee international conference on computer vision (iccv)",
+    "label": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "name": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:2018 ieee/cvf conference on computer vision and pattern recognition",
+    "type": "journal",
+    "journal_id": "name:2018 ieee/cvf conference on computer vision and pattern recognition",
+    "label": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "name": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4363607764",
+    "type": "journal",
+    "journal_id": "S4363607764",
+    "label": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "name": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "issn_l": null,
+    "source_type": "conference",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:a new era in global health",
+    "type": "journal",
+    "journal_id": "name:a new era in global health",
+    "label": "A New Era in Global Health",
+    "name": "A New Era in Global Health",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S117778295",
+    "type": "journal",
+    "journal_id": "S117778295",
+    "label": "Academy of Management Journal",
+    "name": "Academy of Management Journal",
+    "issn_l": "0001-4273",
+    "source_type": "journal",
+    "host_organization_name": "Academy of Management"
+  },
+  {
+    "id": "journal:S46763546",
+    "type": "journal",
+    "journal_id": "S46763546",
+    "label": "Academy of Management Review",
+    "name": "Academy of Management Review",
+    "issn_l": "0363-7425",
+    "source_type": "journal",
+    "host_organization_name": "Academy of Management"
+  },
+  {
+    "id": "journal:S4210176598",
+    "type": "journal",
+    "journal_id": "S4210176598",
+    "label": "ACM SIGKDD Explorations Newsletter",
+    "name": "ACM SIGKDD Explorations Newsletter",
+    "issn_l": "1931-0145",
+    "source_type": "journal",
+    "host_organization_name": "Association for Computing Machinery"
+  },
+  {
+    "id": "journal:S186921487",
+    "type": "journal",
+    "journal_id": "S186921487",
+    "label": "ACM SIGSOFT Software Engineering Notes",
+    "name": "ACM SIGSOFT Software Engineering Notes",
+    "issn_l": "0163-5948",
+    "source_type": "journal",
+    "host_organization_name": "Association for Computing Machinery"
+  },
+  {
+    "id": "journal:S2492086750",
+    "type": "journal",
+    "journal_id": "S2492086750",
+    "label": "ACM Transactions on Intelligent Systems and Technology",
+    "name": "ACM Transactions on Intelligent Systems and Technology",
+    "issn_l": "2157-6904",
+    "source_type": "journal",
+    "host_organization_name": "Association for Computing Machinery"
+  },
+  {
+    "id": "journal:S4210200759",
+    "type": "journal",
+    "journal_id": "S4210200759",
+    "label": "Acta Crystallographica Section A",
+    "name": "Acta Crystallographica Section A",
+    "issn_l": "0567-7394",
+    "source_type": "journal",
+    "host_organization_name": "International Union of Crystallography"
+  },
+  {
+    "id": "journal:S4393918093",
+    "type": "journal",
+    "journal_id": "S4393918093",
+    "label": "Acta Crystallographica Section A Foundations and Advances",
+    "name": "Acta Crystallographica Section A Foundations and Advances",
+    "issn_l": "2053-2733",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S150871906",
+    "type": "journal",
+    "journal_id": "S150871906",
+    "label": "Acta Crystallographica Section A Foundations of Crystallography",
+    "name": "Acta Crystallographica Section A Foundations of Crystallography",
+    "issn_l": "0108-7673",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S4393918092",
+    "type": "journal",
+    "journal_id": "S4393918092",
+    "label": "Acta Crystallographica Section C Structural Chemistry",
+    "name": "Acta Crystallographica Section C Structural Chemistry",
+    "issn_l": "2053-2296",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S114502960",
+    "type": "journal",
+    "journal_id": "S114502960",
+    "label": "Acta Crystallographica Section D Biological Crystallography",
+    "name": "Acta Crystallographica Section D Biological Crystallography",
+    "issn_l": "0907-4449",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S198620474",
+    "type": "journal",
+    "journal_id": "S198620474",
+    "label": "Acta Neuropathologica",
+    "name": "Acta Neuropathologica",
+    "issn_l": "0001-6322",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S199498439",
+    "type": "journal",
+    "journal_id": "S199498439",
+    "label": "Acta Psychiatrica Scandinavica",
+    "name": "Acta Psychiatrica Scandinavica",
+    "issn_l": "0001-690X",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:name:action control",
+    "type": "journal",
+    "journal_id": "name:action control",
+    "label": "Action Control",
+    "name": "Action Control",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S143668711",
+    "type": "journal",
+    "journal_id": "S143668711",
+    "label": "Administrative Science Quarterly",
+    "name": "Administrative Science Quarterly",
+    "issn_l": "0001-8392",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S114437232",
+    "type": "journal",
+    "journal_id": "S114437232",
+    "label": "Advanced Drug Delivery Reviews",
+    "name": "Advanced Drug Delivery Reviews",
+    "issn_l": "0169-409X",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S16540516",
+    "type": "journal",
+    "journal_id": "S16540516",
+    "label": "Advances in Engineering Software",
+    "name": "Advances in Engineering Software",
+    "issn_l": "0965-9978",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S106560479",
+    "type": "journal",
+    "journal_id": "S106560479",
+    "label": "Advances in experimental social psychology",
+    "name": "Advances in experimental social psychology",
+    "issn_l": "0065-2601",
+    "source_type": "book series",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4210174510",
+    "type": "journal",
+    "journal_id": "S4210174510",
+    "label": "Advances in strategic management",
+    "name": "Advances in strategic management",
+    "issn_l": "0742-3322",
+    "source_type": "book series",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S139950591",
+    "type": "journal",
+    "journal_id": "S139950591",
+    "label": "Agronomy Journal",
+    "name": "Agronomy Journal",
+    "issn_l": "0002-1962",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S53336109",
+    "type": "journal",
+    "journal_id": "S53336109",
+    "label": "AIAA Journal",
+    "name": "AIAA Journal",
+    "issn_l": "0001-1452",
+    "source_type": "journal",
+    "host_organization_name": "American Institute of Aeronautics and Astronautics"
+  },
+  {
+    "id": "journal:S108427512",
+    "type": "journal",
+    "journal_id": "S108427512",
+    "label": "Alzheimer s & Dementia",
+    "name": "Alzheimer s & Dementia",
+    "issn_l": "1552-5260",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S23254222",
+    "type": "journal",
+    "journal_id": "S23254222",
+    "label": "American Economic Review",
+    "name": "American Economic Review",
+    "issn_l": "0002-8282",
+    "source_type": "journal",
+    "host_organization_name": "American Economic Association"
+  },
+  {
+    "id": "journal:S15871148",
+    "type": "journal",
+    "journal_id": "S15871148",
+    "label": "American Journal of Clinical Pathology",
+    "name": "American Journal of Clinical Pathology",
+    "issn_l": "0002-9173",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S14903550",
+    "type": "journal",
+    "journal_id": "S14903550",
+    "label": "American Journal of Enology and Viticulture",
+    "name": "American Journal of Enology and Viticulture",
+    "issn_l": "0002-9254",
+    "source_type": "journal",
+    "host_organization_name": "American Society for Enology and Viticulture"
+  },
+  {
+    "id": "journal:S170967050",
+    "type": "journal",
+    "journal_id": "S170967050",
+    "label": "American Journal of Epidemiology",
+    "name": "American Journal of Epidemiology",
+    "issn_l": "0002-9262",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S38866342",
+    "type": "journal",
+    "journal_id": "S38866342",
+    "label": "American Journal of Physics",
+    "name": "American Journal of Physics",
+    "issn_l": "0002-9505",
+    "source_type": "journal",
+    "host_organization_name": "American Institute of Physics"
+  },
+  {
+    "id": "journal:S195759676",
+    "type": "journal",
+    "journal_id": "S195759676",
+    "label": "American Journal of Preventive Medicine",
+    "name": "American Journal of Preventive Medicine",
+    "issn_l": "0749-3797",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S93356601",
+    "type": "journal",
+    "journal_id": "S93356601",
+    "label": "American Journal of Respiratory and Critical Care Medicine",
+    "name": "American Journal of Respiratory and Critical Care Medicine",
+    "issn_l": "1073-449X",
+    "source_type": "journal",
+    "host_organization_name": "American Thoracic Society"
+  },
+  {
+    "id": "journal:S122471516",
+    "type": "journal",
+    "journal_id": "S122471516",
+    "label": "American Journal of Sociology",
+    "name": "American Journal of Sociology",
+    "issn_l": "0002-9602",
+    "source_type": "journal",
+    "host_organization_name": "University of Chicago Press"
+  },
+  {
+    "id": "journal:S4306462811",
+    "type": "journal",
+    "journal_id": "S4306462811",
+    "label": "American Mathematical Society eBooks",
+    "name": "American Mathematical Society eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Serbian Mathematical Society"
+  },
+  {
+    "id": "journal:S4306462815",
+    "type": "journal",
+    "journal_id": "S4306462815",
+    "label": "American Psychiatric Association eBooks",
+    "name": "American Psychiatric Association eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "American Psychiatric Association"
+  },
+  {
+    "id": "journal:S4306462816",
+    "type": "journal",
+    "journal_id": "S4306462816",
+    "label": "American Psychiatric Association Publishing eBooks",
+    "name": "American Psychiatric Association Publishing eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S80146597",
+    "type": "journal",
+    "journal_id": "S80146597",
+    "label": "American Psychologist",
+    "name": "American Psychologist",
+    "issn_l": "0003-066X",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S157620343",
+    "type": "journal",
+    "journal_id": "S157620343",
+    "label": "American Sociological Review",
+    "name": "American Sociological Review",
+    "issn_l": "0003-1224",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:name:an integrated approach to communication theory and research",
+    "type": "journal",
+    "journal_id": "name:an integrated approach to communication theory and research",
+    "label": "An Integrated Approach to Communication Theory and Research",
+    "name": "An Integrated Approach to Communication Theory and Research",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S192559872",
+    "type": "journal",
+    "journal_id": "S192559872",
+    "label": "Analytica Chimica Acta",
+    "name": "Analytica Chimica Acta",
+    "issn_l": "0003-2670",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S7858788",
+    "type": "journal",
+    "journal_id": "S7858788",
+    "label": "Analytical Biochemistry",
+    "name": "Analytical Biochemistry",
+    "issn_l": "0003-2697",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S191963794",
+    "type": "journal",
+    "journal_id": "S191963794",
+    "label": "Analytical Chemistry",
+    "name": "Analytical Chemistry",
+    "issn_l": "0003-2700",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S4377196922",
+    "type": "journal",
+    "journal_id": "S4377196922",
+    "label": "Andalas University Repository (Andalas University)",
+    "name": "Andalas University Repository (Andalas University)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "Andalas University"
+  },
+  {
+    "id": "journal:S139806068",
+    "type": "journal",
+    "journal_id": "S139806068",
+    "label": "Annals of Dyslexia",
+    "name": "Annals of Dyslexia",
+    "issn_l": "0736-9387",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S119722071",
+    "type": "journal",
+    "journal_id": "S119722071",
+    "label": "Annals of Internal Medicine",
+    "name": "Annals of Internal Medicine",
+    "issn_l": "0003-4819",
+    "source_type": "journal",
+    "host_organization_name": "American College of Physicians"
+  },
+  {
+    "id": "journal:S157664895",
+    "type": "journal",
+    "journal_id": "S157664895",
+    "label": "Annals of Surgery",
+    "name": "Annals of Surgery",
+    "issn_l": "0003-4932",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S8802318",
+    "type": "journal",
+    "journal_id": "S8802318",
+    "label": "Annals of the New York Academy of Sciences",
+    "name": "Annals of the New York Academy of Sciences",
+    "issn_l": "0077-8923",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S4210205963",
+    "type": "journal",
+    "journal_id": "S4210205963",
+    "label": "Annual Review of Ecology and Systematics",
+    "name": "Annual Review of Ecology and Systematics",
+    "issn_l": "0066-4162",
+    "source_type": "journal",
+    "host_organization_name": "Annual Reviews"
+  },
+  {
+    "id": "journal:S61274580",
+    "type": "journal",
+    "journal_id": "S61274580",
+    "label": "Annual Review of Sociology",
+    "name": "Annual Review of Sociology",
+    "issn_l": "0360-0572",
+    "source_type": "journal",
+    "host_organization_name": "Annual Reviews"
+  },
+  {
+    "id": "journal:S158228368",
+    "type": "journal",
+    "journal_id": "S158228368",
+    "label": "Applied and Environmental Microbiology",
+    "name": "Applied and Environmental Microbiology",
+    "issn_l": "0099-2240",
+    "source_type": "journal",
+    "host_organization_name": "American Society for Microbiology"
+  },
+  {
+    "id": "journal:S2764390947",
+    "type": "journal",
+    "journal_id": "S2764390947",
+    "label": "Applied mathematical sciences",
+    "name": "Applied mathematical sciences",
+    "issn_l": "0066-5452",
+    "source_type": "book series",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S94663699",
+    "type": "journal",
+    "journal_id": "S94663699",
+    "label": "Applied Psychological Measurement",
+    "name": "Applied Psychological Measurement",
+    "issn_l": "0146-6216",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S153476765",
+    "type": "journal",
+    "journal_id": "S153476765",
+    "label": "Archives of Biochemistry and Biophysics",
+    "name": "Archives of Biochemistry and Biophysics",
+    "issn_l": "0003-9861",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S126359496",
+    "type": "journal",
+    "journal_id": "S126359496",
+    "label": "Archives of General Psychiatry",
+    "name": "Archives of General Psychiatry",
+    "issn_l": "0003-990X",
+    "source_type": "journal",
+    "host_organization_name": "American Medical Association"
+  },
+  {
+    "id": "journal:S4210206803",
+    "type": "journal",
+    "journal_id": "S4210206803",
+    "label": "Archives of Internal Medicine",
+    "name": "Archives of Internal Medicine",
+    "issn_l": "0003-9926",
+    "source_type": "journal",
+    "host_organization_name": "American Medical Association"
+  },
+  {
+    "id": "journal:S132787887",
+    "type": "journal",
+    "journal_id": "S132787887",
+    "label": "Arthritis & Rheumatism",
+    "name": "Arthritis & Rheumatism",
+    "issn_l": "0004-3591",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S4306462866",
+    "type": "journal",
+    "journal_id": "S4306462866",
+    "label": "ASM International eBooks",
+    "name": "ASM International eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "ASM International"
+  },
+  {
+    "id": "journal:S4210198536",
+    "type": "journal",
+    "journal_id": "S4210198536",
+    "label": "Australian and New Zealand Journal of Public Health",
+    "name": "Australian and New Zealand Journal of Public Health",
+    "issn_l": "1326-0200",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S137478622",
+    "type": "journal",
+    "journal_id": "S137478622",
+    "label": "Behavior Research Methods",
+    "name": "Behavior Research Methods",
+    "issn_l": "1554-351X",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S192806854",
+    "type": "journal",
+    "journal_id": "S192806854",
+    "label": "Behavior Research Methods, Instruments, & Computers",
+    "name": "Behavior Research Methods, Instruments, & Computers",
+    "issn_l": "0743-3808",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S186589312",
+    "type": "journal",
+    "journal_id": "S186589312",
+    "label": "Behaviour Research and Therapy",
+    "name": "Behaviour Research and Therapy",
+    "issn_l": "0005-7967",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S127472826",
+    "type": "journal",
+    "journal_id": "S127472826",
+    "label": "Bell System Technical Journal",
+    "name": "Bell System Technical Journal",
+    "issn_l": "0005-8580",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S185467459",
+    "type": "journal",
+    "journal_id": "S185467459",
+    "label": "Biochemia Medica",
+    "name": "Biochemia Medica",
+    "issn_l": "1330-0962",
+    "source_type": "journal",
+    "host_organization_name": "Croatian society of medical biochemistry and laboratory medicine"
+  },
+  {
+    "id": "journal:S185596183",
+    "type": "journal",
+    "journal_id": "S185596183",
+    "label": "Biochemical Education",
+    "name": "Biochemical Education",
+    "issn_l": "0307-4412",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S185534594",
+    "type": "journal",
+    "journal_id": "S185534594",
+    "label": "Biochemical Pharmacology",
+    "name": "Biochemical Pharmacology",
+    "issn_l": "0006-2952",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S104038378",
+    "type": "journal",
+    "journal_id": "S104038378",
+    "label": "Biochemistry",
+    "name": "Biochemistry",
+    "issn_l": "0006-2960",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S52395412",
+    "type": "journal",
+    "journal_id": "S52395412",
+    "label": "Bioinformatics",
+    "name": "Bioinformatics",
+    "issn_l": "1367-4803",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S8265502",
+    "type": "journal",
+    "journal_id": "S8265502",
+    "label": "Biometrics",
+    "name": "Biometrics",
+    "issn_l": "0006-341X",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S172180718",
+    "type": "journal",
+    "journal_id": "S172180718",
+    "label": "Biometrika",
+    "name": "Biometrika",
+    "issn_l": "0006-3444",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S56808608",
+    "type": "journal",
+    "journal_id": "S56808608",
+    "label": "Biopolymers",
+    "name": "Biopolymers",
+    "issn_l": "0006-3525",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:name:biostatistics and microbiology: a survival manual",
+    "type": "journal",
+    "journal_id": "name:biostatistics and microbiology: a survival manual",
+    "label": "Biostatistics and Microbiology: A Survival Manual",
+    "name": "Biostatistics and Microbiology: A Survival Manual",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S19032547",
+    "type": "journal",
+    "journal_id": "S19032547",
+    "label": "BMC Bioinformatics",
+    "name": "BMC Bioinformatics",
+    "issn_l": "1471-2105",
+    "source_type": "journal",
+    "host_organization_name": "BioMed Central"
+  },
+  {
+    "id": "journal:S4393917726",
+    "type": "journal",
+    "journal_id": "S4393917726",
+    "label": "BMJ",
+    "name": "BMJ",
+    "issn_l": "1756-1833",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S192814187",
+    "type": "journal",
+    "journal_id": "S192814187",
+    "label": "BMJ",
+    "name": "BMJ",
+    "issn_l": "0959-8138",
+    "source_type": "journal",
+    "host_organization_name": "BMJ"
+  },
+  {
+    "id": "journal:S183182149",
+    "type": "journal",
+    "journal_id": "S183182149",
+    "label": "Bone Marrow Transplantation",
+    "name": "Bone Marrow Transplantation",
+    "issn_l": "0268-3369",
+    "source_type": "journal",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S9986330",
+    "type": "journal",
+    "journal_id": "S9986330",
+    "label": "Breast Care",
+    "name": "Breast Care",
+    "issn_l": "1661-3791",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S62966998",
+    "type": "journal",
+    "journal_id": "S62966998",
+    "label": "British Journal of Cancer",
+    "name": "British Journal of Cancer",
+    "issn_l": "0007-0920",
+    "source_type": "journal",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S93528005",
+    "type": "journal",
+    "journal_id": "S93528005",
+    "label": "British Journal of Educational Studies",
+    "name": "British Journal of Educational Studies",
+    "issn_l": "0007-1005",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S118940690",
+    "type": "journal",
+    "journal_id": "S118940690",
+    "label": "Bulletin of Mathematical Biology",
+    "name": "Bulletin of Mathematical Biology",
+    "issn_l": "0092-8240",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S140302479",
+    "type": "journal",
+    "journal_id": "S140302479",
+    "label": "Bulletin of the American Meteorological Society",
+    "name": "Bulletin of the American Meteorological Society",
+    "issn_l": "0003-0007",
+    "source_type": "journal",
+    "host_organization_name": "American Meteorological Society"
+  },
+  {
+    "id": "journal:S113237667",
+    "type": "journal",
+    "journal_id": "S113237667",
+    "label": "Business Horizons",
+    "name": "Business Horizons",
+    "issn_l": "0007-6813",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S126094547",
+    "type": "journal",
+    "journal_id": "S126094547",
+    "label": "CA A Cancer Journal for Clinicians",
+    "name": "CA A Cancer Journal for Clinicians",
+    "issn_l": "0007-9235",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S4306462995",
+    "type": "journal",
+    "journal_id": "S4306462995",
+    "label": "Cambridge University Press eBooks",
+    "name": "Cambridge University Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Cambridge University Press"
+  },
+  {
+    "id": "journal:S4210189559",
+    "type": "journal",
+    "journal_id": "S4210189559",
+    "label": "Canadian Graduate Journal of Sociology and Criminology",
+    "name": "Canadian Graduate Journal of Sociology and Criminology",
+    "issn_l": "1927-9825",
+    "source_type": "journal",
+    "host_organization_name": "University of Waterloo"
+  },
+  {
+    "id": "journal:S4210182832",
+    "type": "journal",
+    "journal_id": "S4210182832",
+    "label": "Canadian Journal of Biochemistry and Physiology",
+    "name": "Canadian Journal of Biochemistry and Physiology",
+    "issn_l": "0576-5544",
+    "source_type": "journal",
+    "host_organization_name": "Canadian Science Publishing"
+  },
+  {
+    "id": "journal:S173335977",
+    "type": "journal",
+    "journal_id": "S173335977",
+    "label": "Canadian Journal of Physics",
+    "name": "Canadian Journal of Physics",
+    "issn_l": "0008-4204",
+    "source_type": "journal",
+    "host_organization_name": "NRC Research Press"
+  },
+  {
+    "id": "journal:S126033908",
+    "type": "journal",
+    "journal_id": "S126033908",
+    "label": "Cancer",
+    "name": "Cancer",
+    "issn_l": "0008-543X",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S2486275289",
+    "type": "journal",
+    "journal_id": "S2486275289",
+    "label": "Cancer Discovery",
+    "name": "Cancer Discovery",
+    "issn_l": "2159-8274",
+    "source_type": "journal",
+    "host_organization_name": "American Association for Cancer Research"
+  },
+  {
+    "id": "journal:S110447773",
+    "type": "journal",
+    "journal_id": "S110447773",
+    "label": "Cell",
+    "name": "Cell",
+    "issn_l": "0092-8674",
+    "source_type": "journal",
+    "host_organization_name": "Cell Press"
+  },
+  {
+    "id": "journal:S161399637",
+    "type": "journal",
+    "journal_id": "S161399637",
+    "label": "Cellular Physiology and Biochemistry",
+    "name": "Cellular Physiology and Biochemistry",
+    "issn_l": "1015-8987",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S4306402195",
+    "type": "journal",
+    "journal_id": "S4306402195",
+    "label": "CERN Document Server (European Organization for Nuclear Research)",
+    "name": "CERN Document Server (European Organization for Nuclear Research)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "European Organization for Nuclear Research"
+  },
+  {
+    "id": "journal:S41143188",
+    "type": "journal",
+    "journal_id": "S41143188",
+    "label": "Chemical Reviews",
+    "name": "Chemical Reviews",
+    "issn_l": "0009-2665",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S2764375719",
+    "type": "journal",
+    "journal_id": "S2764375719",
+    "label": "Choice Reviews Online",
+    "name": "Choice Reviews Online",
+    "issn_l": "0009-4978",
+    "source_type": "journal",
+    "host_organization_name": "Association of College and Research Libraries"
+  },
+  {
+    "id": "journal:S116251202",
+    "type": "journal",
+    "journal_id": "S116251202",
+    "label": "Circulation",
+    "name": "Circulation",
+    "issn_l": "0009-7322",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S90511721",
+    "type": "journal",
+    "journal_id": "S90511721",
+    "label": "Cladistics",
+    "name": "Cladistics",
+    "issn_l": "0748-3007",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S4306467859",
+    "type": "journal",
+    "journal_id": "S4306467859",
+    "label": "Clarendon Press eBooks",
+    "name": "Clarendon Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Clarendon Press"
+  },
+  {
+    "id": "journal:S4210217276",
+    "type": "journal",
+    "journal_id": "S4210217276",
+    "label": "Classics in mathematics",
+    "name": "Classics in mathematics",
+    "issn_l": "1431-0821",
+    "source_type": "book series",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S139212996",
+    "type": "journal",
+    "journal_id": "S139212996",
+    "label": "Clinical Chemistry",
+    "name": "Clinical Chemistry",
+    "issn_l": "0009-9147",
+    "source_type": "journal",
+    "host_organization_name": "American Association for Clinical Chemistry"
+  },
+  {
+    "id": "journal:S103482838",
+    "type": "journal",
+    "journal_id": "S103482838",
+    "label": "Communications of the ACM",
+    "name": "Communications of the ACM",
+    "issn_l": "0001-0782",
+    "source_type": "journal",
+    "host_organization_name": "Association for Computing Machinery"
+  },
+  {
+    "id": "journal:S26018076",
+    "type": "journal",
+    "journal_id": "S26018076",
+    "label": "Computational Materials Science",
+    "name": "Computational Materials Science",
+    "issn_l": "0927-0256",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S63392143",
+    "type": "journal",
+    "journal_id": "S63392143",
+    "label": "Computer Networks",
+    "name": "Computer Networks",
+    "issn_l": "1389-1286",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S3084184",
+    "type": "journal",
+    "journal_id": "S3084184",
+    "label": "Computer Networks and ISDN Systems",
+    "name": "Computer Networks and ISDN Systems",
+    "issn_l": "0169-7552",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S60115552",
+    "type": "journal",
+    "journal_id": "S60115552",
+    "label": "Computers Environment and Urban Systems",
+    "name": "Computers Environment and Urban Systems",
+    "issn_l": "0198-9715",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S107923245",
+    "type": "journal",
+    "journal_id": "S107923245",
+    "label": "Computing in Science & Engineering",
+    "name": "Computing in Science & Engineering",
+    "issn_l": "1521-9615",
+    "source_type": "journal",
+    "host_organization_name": "AIP Publishing"
+  },
+  {
+    "id": "journal:S64506217",
+    "type": "journal",
+    "journal_id": "S64506217",
+    "label": "Contemporary Educational Psychology",
+    "name": "Contemporary Educational Psychology",
+    "issn_l": "0361-476X",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4789869",
+    "type": "journal",
+    "journal_id": "S4789869",
+    "label": "Contemporary Sociology A Journal of Reviews",
+    "name": "Contemporary Sociology A Journal of Reviews",
+    "issn_l": "0094-3061",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S84962792",
+    "type": "journal",
+    "journal_id": "S84962792",
+    "label": "Controlled Clinical Trials",
+    "name": "Controlled Clinical Trials",
+    "issn_l": "0197-2456",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S36838616",
+    "type": "journal",
+    "journal_id": "S36838616",
+    "label": "Cytotherapy",
+    "name": "Cytotherapy",
+    "issn_l": "1465-3249",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S7407052059",
+    "type": "journal",
+    "journal_id": "S7407052059",
+    "label": "Dagstuhl Research Online Publication Server",
+    "name": "Dagstuhl Research Online Publication Server",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S121920818",
+    "type": "journal",
+    "journal_id": "S121920818",
+    "label": "Data Mining and Knowledge Discovery",
+    "name": "Data Mining and Knowledge Discovery",
+    "issn_l": "1384-5810",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S4406923043",
+    "type": "journal",
+    "journal_id": "S4406923043",
+    "label": "Defense Technical Information Center (DTIC)",
+    "name": "Defense Technical Information Center (DTIC)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S2764877394",
+    "type": "journal",
+    "journal_id": "S2764877394",
+    "label": "Dementia and Geriatric Cognitive Disorders Extra",
+    "name": "Dementia and Geriatric Cognitive Disorders Extra",
+    "issn_l": "1664-5464",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S104375418",
+    "type": "journal",
+    "journal_id": "S104375418",
+    "label": "Diabetologia",
+    "name": "Diabetologia",
+    "issn_l": "0012-186X",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S4377196569",
+    "type": "journal",
+    "journal_id": "S4377196569",
+    "label": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+    "name": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "Schloss Dagstuhl – Leibniz Center for Informatics"
+  },
+  {
+    "id": "journal:S4377196388",
+    "type": "journal",
+    "journal_id": "S4377196388",
+    "label": "DSPACE System - Metalibrary (University of the Coast)",
+    "name": "DSPACE System - Metalibrary (University of the Coast)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "University of the Coast"
+  },
+  {
+    "id": "journal:S88315673",
+    "type": "journal",
+    "journal_id": "S88315673",
+    "label": "Ecological Modelling",
+    "name": "Ecological Modelling",
+    "issn_l": "0304-3800",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S35917800",
+    "type": "journal",
+    "journal_id": "S35917800",
+    "label": "Ecology",
+    "name": "Ecology",
+    "issn_l": "0012-9658",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S95464858",
+    "type": "journal",
+    "journal_id": "S95464858",
+    "label": "Econometrica",
+    "name": "Econometrica",
+    "issn_l": "0012-9682",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S108845946",
+    "type": "journal",
+    "journal_id": "S108845946",
+    "label": "Economica",
+    "name": "Economica",
+    "issn_l": "0013-0427",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S176831015",
+    "type": "journal",
+    "journal_id": "S176831015",
+    "label": "Educational and Psychological Measurement",
+    "name": "Educational and Psychological Measurement",
+    "issn_l": "0013-1644",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S55175622",
+    "type": "journal",
+    "journal_id": "S55175622",
+    "label": "Educational Researcher",
+    "name": "Educational Researcher",
+    "issn_l": "0013-189X",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S134335455",
+    "type": "journal",
+    "journal_id": "S134335455",
+    "label": "Eighteenth-Century Studies",
+    "name": "Eighteenth-Century Studies",
+    "issn_l": "0013-2586",
+    "source_type": "journal",
+    "host_organization_name": "Johns Hopkins University Press"
+  },
+  {
+    "id": "journal:name:electronics: a first course",
+    "type": "journal",
+    "journal_id": "name:electronics: a first course",
+    "label": "Electronics: A First Course",
+    "name": "Electronics: A First Course",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4306463230",
+    "type": "journal",
+    "journal_id": "S4306463230",
+    "label": "Elsevier eBooks",
+    "name": "Elsevier eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S2914327366",
+    "type": "journal",
+    "journal_id": "S2914327366",
+    "label": "EMBnet journal",
+    "name": "EMBnet journal",
+    "issn_l": "2226-6089",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:encyclopedia of behavioral medicine",
+    "type": "journal",
+    "journal_id": "name:encyclopedia of behavioral medicine",
+    "label": "Encyclopedia of Behavioral Medicine",
+    "name": "Encyclopedia of Behavioral Medicine",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:encyclopedia of the sciences of learning",
+    "type": "journal",
+    "journal_id": "name:encyclopedia of the sciences of learning",
+    "label": "Encyclopedia of the Sciences of Learning",
+    "name": "Encyclopedia of the Sciences of Learning",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4210235606",
+    "type": "journal",
+    "journal_id": "S4210235606",
+    "label": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+    "name": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+    "issn_l": "2622-8912",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4306400115",
+    "type": "journal",
+    "journal_id": "S4306400115",
+    "label": "eScholarship (California Digital Library)",
+    "name": "eScholarship (California Digital Library)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "California Digital Library"
+  },
+  {
+    "id": "journal:S94775995",
+    "type": "journal",
+    "journal_id": "S94775995",
+    "label": "European Business Review",
+    "name": "European Business Review",
+    "issn_l": "0955-534X",
+    "source_type": "journal",
+    "host_organization_name": "Emerald Publishing Limited"
+  },
+  {
+    "id": "journal:S16731738",
+    "type": "journal",
+    "journal_id": "S16731738",
+    "label": "European Journal of Cancer",
+    "name": "European Journal of Cancer",
+    "issn_l": "0959-8049",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S48690275",
+    "type": "journal",
+    "journal_id": "S48690275",
+    "label": "European Journal of Epidemiology",
+    "name": "European Journal of Epidemiology",
+    "issn_l": "0393-2990",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S103321696",
+    "type": "journal",
+    "journal_id": "S103321696",
+    "label": "European Journal of Operational Research",
+    "name": "European Journal of Operational Research",
+    "issn_l": "0377-2217",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4210207896",
+    "type": "journal",
+    "journal_id": "S4210207896",
+    "label": "European Respiratory Journal",
+    "name": "European Respiratory Journal",
+    "issn_l": "0903-1936",
+    "source_type": "journal",
+    "host_organization_name": "European Respiratory Society"
+  },
+  {
+    "id": "journal:S17192686",
+    "type": "journal",
+    "journal_id": "S17192686",
+    "label": "Evaluation & Research in Education",
+    "name": "Evaluation & Research in Education",
+    "issn_l": "0950-0790",
+    "source_type": "journal",
+    "host_organization_name": "Routledge"
+  },
+  {
+    "id": "journal:S87560609",
+    "type": "journal",
+    "journal_id": "S87560609",
+    "label": "Evolution",
+    "name": "Evolution",
+    "issn_l": "0014-3820",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S47042909",
+    "type": "journal",
+    "journal_id": "S47042909",
+    "label": "Feminist Review",
+    "name": "Feminist Review",
+    "issn_l": "0141-7789",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S192660949",
+    "type": "journal",
+    "journal_id": "S192660949",
+    "label": "Feminist Studies",
+    "name": "Feminist Studies",
+    "issn_l": "0046-3663",
+    "source_type": "journal",
+    "host_organization_name": "Feminist Studies"
+  },
+  {
+    "id": "journal:S83253694",
+    "type": "journal",
+    "journal_id": "S83253694",
+    "label": "Field Methods",
+    "name": "Field Methods",
+    "issn_l": "1525-822X",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:name:food and culture",
+    "type": "journal",
+    "journal_id": "name:food and culture",
+    "label": "Food and Culture",
+    "name": "Food and Culture",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4210188176",
+    "type": "journal",
+    "journal_id": "S4210188176",
+    "label": "Foundations and Trends® in Machine Learning",
+    "name": "Foundations and Trends® in Machine Learning",
+    "issn_l": "1935-8237",
+    "source_type": "journal",
+    "host_organization_name": "Now Publishers"
+  },
+  {
+    "id": "journal:S128018148",
+    "type": "journal",
+    "journal_id": "S128018148",
+    "label": "Free Radical Biology and Medicine",
+    "name": "Free Radical Biology and Medicine",
+    "issn_l": "0891-5849",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S169411308",
+    "type": "journal",
+    "journal_id": "S169411308",
+    "label": "Fuzzy Sets and Systems",
+    "name": "Fuzzy Sets and Systems",
+    "issn_l": "0165-0114",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S3961818",
+    "type": "journal",
+    "journal_id": "S3961818",
+    "label": "General Pharmacology The Vascular System",
+    "name": "General Pharmacology The Vascular System",
+    "issn_l": "0306-3623",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S65932378",
+    "type": "journal",
+    "journal_id": "S65932378",
+    "label": "Genetics",
+    "name": "Genetics",
+    "issn_l": "0016-6731",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S187186932",
+    "type": "journal",
+    "journal_id": "S187186932",
+    "label": "Genetics in Medicine",
+    "name": "Genetics in Medicine",
+    "issn_l": "1098-3600",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S81160022",
+    "type": "journal",
+    "journal_id": "S81160022",
+    "label": "Genome biology",
+    "name": "Genome biology",
+    "issn_l": "1474-7596",
+    "source_type": "journal",
+    "host_organization_name": "BioMed Central"
+  },
+  {
+    "id": "journal:S29311329",
+    "type": "journal",
+    "journal_id": "S29311329",
+    "label": "Geological Society London Special Publications",
+    "name": "Geological Society London Special Publications",
+    "issn_l": "0305-8719",
+    "source_type": "journal",
+    "host_organization_name": "Geological Society of London"
+  },
+  {
+    "id": "journal:S190989491",
+    "type": "journal",
+    "journal_id": "S190989491",
+    "label": "Gerontology",
+    "name": "Gerontology",
+    "issn_l": "0304-324X",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S170199316",
+    "type": "journal",
+    "journal_id": "S170199316",
+    "label": "Géotechnique",
+    "name": "Géotechnique",
+    "issn_l": "0016-8505",
+    "source_type": "journal",
+    "host_organization_name": "ICE Publishing"
+  },
+  {
+    "id": "journal:S129458801",
+    "type": "journal",
+    "journal_id": "S129458801",
+    "label": "Harvard Educational Review",
+    "name": "Harvard Educational Review",
+    "issn_l": "0017-8055",
+    "source_type": "journal",
+    "host_organization_name": "Harvard University Press"
+  },
+  {
+    "id": "journal:S4306463363",
+    "type": "journal",
+    "journal_id": "S4306463363",
+    "label": "Harvard University Press eBooks",
+    "name": "Harvard University Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Harvard University Press"
+  },
+  {
+    "id": "journal:S4210209709",
+    "type": "journal",
+    "journal_id": "S4210209709",
+    "label": "Health Policy",
+    "name": "Health Policy",
+    "issn_l": "0168-8510",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S176903982",
+    "type": "journal",
+    "journal_id": "S176903982",
+    "label": "Health Promotion Practice",
+    "name": "Health Promotion Practice",
+    "issn_l": "1524-8399",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:name:http://www-stat.stanford.edu/~hastie/papers/eslii.pdf",
+    "type": "journal",
+    "journal_id": "name:http://www-stat.stanford.edu/~hastie/papers/eslii.pdf",
+    "label": "http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf",
+    "name": "http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:http://www.cs.toronto.edu/%7ersalakhu/papers/srivastava14a.pdf",
+    "type": "journal",
+    "journal_id": "name:http://www.cs.toronto.edu/%7ersalakhu/papers/srivastava14a.pdf",
+    "label": "http://www.cs.toronto.edu/%7Ersalakhu/papers/srivastava14a.pdf",
+    "name": "http://www.cs.toronto.edu/%7Ersalakhu/papers/srivastava14a.pdf",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:http://www.cs.unc.edu/%7ewliu/papers/ssd.pdf",
+    "type": "journal",
+    "journal_id": "name:http://www.cs.unc.edu/%7ewliu/papers/ssd.pdf",
+    "label": "http://www.cs.unc.edu/%7Ewliu/papers/ssd.pdf",
+    "name": "http://www.cs.unc.edu/%7Ewliu/papers/ssd.pdf",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:http://www2.cs.uh.edu/~ceick/7363/papers/dbscan.pdf",
+    "type": "journal",
+    "journal_id": "name:http://www2.cs.uh.edu/~ceick/7363/papers/dbscan.pdf",
+    "label": "http://www2.cs.uh.edu/~ceick/7363/Papers/dbscan.pdf",
+    "name": "http://www2.cs.uh.edu/~ceick/7363/Papers/dbscan.pdf",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S61446109",
+    "type": "journal",
+    "journal_id": "S61446109",
+    "label": "Human Relations",
+    "name": "Human Relations",
+    "issn_l": "0018-7267",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S184954342",
+    "type": "journal",
+    "journal_id": "S184954342",
+    "label": "IEEE Transactions on Automatic Control",
+    "name": "IEEE Transactions on Automatic Control",
+    "issn_l": "0018-9286",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S93787993",
+    "type": "journal",
+    "journal_id": "S93787993",
+    "label": "IEEE Transactions on Evolutionary Computation",
+    "name": "IEEE Transactions on Evolutionary Computation",
+    "issn_l": "1089-778X",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S4210173141",
+    "type": "journal",
+    "journal_id": "S4210173141",
+    "label": "IEEE Transactions on Image Processing",
+    "name": "IEEE Transactions on Image Processing",
+    "issn_l": "1057-7149",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S4502562",
+    "type": "journal",
+    "journal_id": "S4502562",
+    "label": "IEEE Transactions on Information Theory",
+    "name": "IEEE Transactions on Information Theory",
+    "issn_l": "0018-9448",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S30698027",
+    "type": "journal",
+    "journal_id": "S30698027",
+    "label": "IEEE Transactions on Knowledge and Data Engineering",
+    "name": "IEEE Transactions on Knowledge and Data Engineering",
+    "issn_l": "1041-4347",
+    "source_type": "journal",
+    "host_organization_name": "IEEE Computer Society"
+  },
+  {
+    "id": "journal:S42080949",
+    "type": "journal",
+    "journal_id": "S42080949",
+    "label": "IEEE Transactions on Neural Networks",
+    "name": "IEEE Transactions on Neural Networks",
+    "issn_l": "1045-9227",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S199944782",
+    "type": "journal",
+    "journal_id": "S199944782",
+    "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "issn_l": "0162-8828",
+    "source_type": "journal",
+    "host_organization_name": "IEEE Computer Society"
+  },
+  {
+    "id": "journal:S76152103",
+    "type": "journal",
+    "journal_id": "S76152103",
+    "label": "IEEE Transactions on Systems Man and Cybernetics",
+    "name": "IEEE Transactions on Systems Man and Cybernetics",
+    "issn_l": "0018-9472",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S166948985",
+    "type": "journal",
+    "journal_id": "S166948985",
+    "label": "Industrial Robot the international journal of robotics research and application",
+    "name": "Industrial Robot the international journal of robotics research and application",
+    "issn_l": "0143-991X",
+    "source_type": "journal",
+    "host_organization_name": "Emerald Publishing Limited"
+  },
+  {
+    "id": "journal:S4210192454",
+    "type": "journal",
+    "journal_id": "S4210192454",
+    "label": "Information and Control",
+    "name": "Information and Control",
+    "issn_l": "0019-9958",
+    "source_type": "journal",
+    "host_organization_name": "Academic Press"
+  },
+  {
+    "id": "journal:S4210208459",
+    "type": "journal",
+    "journal_id": "S4210208459",
+    "label": "Integrative Medicine International",
+    "name": "Integrative Medicine International",
+    "issn_l": "2296-7362",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S4306401748",
+    "type": "journal",
+    "journal_id": "S4306401748",
+    "label": "Intellectum (Universidad de La Sabana)",
+    "name": "Intellectum (Universidad de La Sabana)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "Universidad de La Sabana"
+  },
+  {
+    "id": "journal:S74917805",
+    "type": "journal",
+    "journal_id": "S74917805",
+    "label": "International Journal for Quality in Health Care",
+    "name": "International Journal for Quality in Health Care",
+    "issn_l": "1353-4505",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S5382288",
+    "type": "journal",
+    "journal_id": "S5382288",
+    "label": "International Journal of Cancer",
+    "name": "International Journal of Cancer",
+    "issn_l": "0020-7136",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S32061424",
+    "type": "journal",
+    "journal_id": "S32061424",
+    "label": "International Journal of Climatology",
+    "name": "International Journal of Climatology",
+    "issn_l": "0899-8418",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S25538012",
+    "type": "journal",
+    "journal_id": "S25538012",
+    "label": "International Journal of Computer Vision",
+    "name": "International Journal of Computer Vision",
+    "issn_l": "0920-5691",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S39841227",
+    "type": "journal",
+    "journal_id": "S39841227",
+    "label": "International Journal of Forecasting",
+    "name": "International Journal of Forecasting",
+    "issn_l": "0169-2070",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S189354248",
+    "type": "journal",
+    "journal_id": "S189354248",
+    "label": "International Journal of Information Management",
+    "name": "International Journal of Information Management",
+    "issn_l": "0268-4012",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S174538591",
+    "type": "journal",
+    "journal_id": "S174538591",
+    "label": "International Journal of Intercultural Relations",
+    "name": "International Journal of Intercultural Relations",
+    "issn_l": "0147-1767",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S114106686",
+    "type": "journal",
+    "journal_id": "S114106686",
+    "label": "International Journal of Research & Method in Education",
+    "name": "International Journal of Research & Method in Education",
+    "issn_l": "1743-727X",
+    "source_type": "journal",
+    "host_organization_name": "Routledge"
+  },
+  {
+    "id": "journal:S125130336",
+    "type": "journal",
+    "journal_id": "S125130336",
+    "label": "International Journal of Social Research Methodology",
+    "name": "International Journal of Social Research Methodology",
+    "issn_l": "1364-5579",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S90857023",
+    "type": "journal",
+    "journal_id": "S90857023",
+    "label": "International Migration Review",
+    "name": "International Migration Review",
+    "issn_l": "0197-9183",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S172573765",
+    "type": "journal",
+    "journal_id": "S172573765",
+    "label": "JAMA",
+    "name": "JAMA",
+    "issn_l": "0098-7484",
+    "source_type": "journal",
+    "host_organization_name": "American Medical Association"
+  },
+  {
+    "id": "journal:S98010888",
+    "type": "journal",
+    "journal_id": "S98010888",
+    "label": "JNCI Journal of the National Cancer Institute",
+    "name": "JNCI Journal of the National Cancer Institute",
+    "issn_l": "0027-8874",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S4306463499",
+    "type": "journal",
+    "journal_id": "S4306463499",
+    "label": "Johns Hopkins University Press eBooks",
+    "name": "Johns Hopkins University Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Johns Hopkins University Press"
+  },
+  {
+    "id": "journal:S207420867",
+    "type": "journal",
+    "journal_id": "S207420867",
+    "label": "Journal for the Scientific Study of Religion",
+    "name": "Journal for the Scientific Study of Religion",
+    "issn_l": "0021-8294",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S137832324",
+    "type": "journal",
+    "journal_id": "S137832324",
+    "label": "Journal of Advanced Nursing",
+    "name": "Journal of Advanced Nursing",
+    "issn_l": "0309-2402",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S26308392",
+    "type": "journal",
+    "journal_id": "S26308392",
+    "label": "Journal of Aesthetics and Art Criticism",
+    "name": "Journal of Aesthetics and Art Criticism",
+    "issn_l": "0021-8529",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S2755299131",
+    "type": "journal",
+    "journal_id": "S2755299131",
+    "label": "Journal of AOAC INTERNATIONAL",
+    "name": "Journal of AOAC INTERNATIONAL",
+    "issn_l": "0004-5756",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S79162954",
+    "type": "journal",
+    "journal_id": "S79162954",
+    "label": "Journal of Applied Crystallography",
+    "name": "Journal of Applied Crystallography",
+    "issn_l": "0021-8898",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S85739584",
+    "type": "journal",
+    "journal_id": "S85739584",
+    "label": "Journal of Applied Econometrics",
+    "name": "Journal of Applied Econometrics",
+    "issn_l": "0883-7252",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S187991544",
+    "type": "journal",
+    "journal_id": "S187991544",
+    "label": "Journal of Applied Physics",
+    "name": "Journal of Applied Physics",
+    "issn_l": "0021-8979",
+    "source_type": "journal",
+    "host_organization_name": "American Institute of Physics"
+  },
+  {
+    "id": "journal:S166002381",
+    "type": "journal",
+    "journal_id": "S166002381",
+    "label": "Journal of Applied Psychology",
+    "name": "Journal of Applied Psychology",
+    "issn_l": "0021-9010",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S139930977",
+    "type": "journal",
+    "journal_id": "S139930977",
+    "label": "Journal of Artificial Intelligence Research",
+    "name": "Journal of Artificial Intelligence Research",
+    "issn_l": "1076-9757",
+    "source_type": "journal",
+    "host_organization_name": "AI Access Foundation"
+  },
+  {
+    "id": "journal:S2764422239",
+    "type": "journal",
+    "journal_id": "S2764422239",
+    "label": "Journal of Basic Engineering",
+    "name": "Journal of Basic Engineering",
+    "issn_l": "0021-9223",
+    "source_type": "journal",
+    "host_organization_name": "American Society of Mechanical Engineers"
+  },
+  {
+    "id": "journal:S140251998",
+    "type": "journal",
+    "journal_id": "S140251998",
+    "label": "Journal of Biological Chemistry",
+    "name": "Journal of Biological Chemistry",
+    "issn_l": "0021-9258",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S11622463",
+    "type": "journal",
+    "journal_id": "S11622463",
+    "label": "Journal of Biomedical Informatics",
+    "name": "Journal of Biomedical Informatics",
+    "issn_l": "1532-0464",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S181390377",
+    "type": "journal",
+    "journal_id": "S181390377",
+    "label": "Journal of Biomolecular NMR",
+    "name": "Journal of Biomolecular NMR",
+    "issn_l": "0925-2738",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S189701308",
+    "type": "journal",
+    "journal_id": "S189701308",
+    "label": "Journal of Chemical Theory and Computation",
+    "name": "Journal of Chemical Theory and Computation",
+    "issn_l": "1549-9618",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S67905653",
+    "type": "journal",
+    "journal_id": "S67905653",
+    "label": "Journal of Chiropractic Medicine",
+    "name": "Journal of Chiropractic Medicine",
+    "issn_l": "1556-3707",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S69091592",
+    "type": "journal",
+    "journal_id": "S69091592",
+    "label": "Journal of Chronic Diseases",
+    "name": "Journal of Chronic Diseases",
+    "issn_l": "0021-9681",
+    "source_type": "journal",
+    "host_organization_name": "Pergamon Press"
+  },
+  {
+    "id": "journal:S64418186",
+    "type": "journal",
+    "journal_id": "S64418186",
+    "label": "Journal of Clinical Epidemiology",
+    "name": "Journal of Clinical Epidemiology",
+    "issn_l": "0895-4356",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S18971317",
+    "type": "journal",
+    "journal_id": "S18971317",
+    "label": "Journal of Cognitive Psychotherapy",
+    "name": "Journal of Cognitive Psychotherapy",
+    "issn_l": "0889-8391",
+    "source_type": "journal",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S165473669",
+    "type": "journal",
+    "journal_id": "S165473669",
+    "label": "Journal of Computational and Applied Mathematics",
+    "name": "Journal of Computational and Applied Mathematics",
+    "issn_l": "0377-0427",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S78571599",
+    "type": "journal",
+    "journal_id": "S78571599",
+    "label": "Journal of Computational Biology",
+    "name": "Journal of Computational Biology",
+    "issn_l": "1066-5277",
+    "source_type": "journal",
+    "host_organization_name": "Mary Ann Liebert, Inc."
+  },
+  {
+    "id": "journal:S21117631",
+    "type": "journal",
+    "journal_id": "S21117631",
+    "label": "Journal of Computational Chemistry",
+    "name": "Journal of Computational Chemistry",
+    "issn_l": "0192-8651",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S148709879",
+    "type": "journal",
+    "journal_id": "S148709879",
+    "label": "Journal of Computational Physics",
+    "name": "Journal of Computational Physics",
+    "issn_l": "0021-9991",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S141020589",
+    "type": "journal",
+    "journal_id": "S141020589",
+    "label": "Journal of Computer and System Sciences",
+    "name": "Journal of Computer and System Sciences",
+    "issn_l": "0022-0000",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S30594836",
+    "type": "journal",
+    "journal_id": "S30594836",
+    "label": "Journal of Computer-Mediated Communication",
+    "name": "Journal of Computer-Mediated Communication",
+    "issn_l": "1083-6101",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S28349394",
+    "type": "journal",
+    "journal_id": "S28349394",
+    "label": "Journal of Dairy Science",
+    "name": "Journal of Dairy Science",
+    "issn_l": "0022-0302",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S127742747",
+    "type": "journal",
+    "journal_id": "S127742747",
+    "label": "Journal of Econometrics",
+    "name": "Journal of Econometrics",
+    "issn_l": "0304-4076",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S44585919",
+    "type": "journal",
+    "journal_id": "S44585919",
+    "label": "Journal of Economic Dynamics and Control",
+    "name": "Journal of Economic Dynamics and Control",
+    "issn_l": "0165-1889",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S146976949",
+    "type": "journal",
+    "journal_id": "S146976949",
+    "label": "Journal of Economic Entomology",
+    "name": "Journal of Economic Entomology",
+    "issn_l": "0022-0493",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S158511090",
+    "type": "journal",
+    "journal_id": "S158511090",
+    "label": "Journal of Electronic Imaging",
+    "name": "Journal of Electronic Imaging",
+    "issn_l": "1017-9909",
+    "source_type": "journal",
+    "host_organization_name": "SPIE"
+  },
+  {
+    "id": "journal:S32271328",
+    "type": "journal",
+    "journal_id": "S32271328",
+    "label": "Journal of Environmental Psychology",
+    "name": "Journal of Environmental Psychology",
+    "issn_l": "0272-4944",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4210168021",
+    "type": "journal",
+    "journal_id": "S4210168021",
+    "label": "Journal of Experimental Psychology",
+    "name": "Journal of Experimental Psychology",
+    "issn_l": "0022-1015",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S149240962",
+    "type": "journal",
+    "journal_id": "S149240962",
+    "label": "Journal of Financial Economics",
+    "name": "Journal of Financial Economics",
+    "issn_l": "0304-405X",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S116608325",
+    "type": "journal",
+    "journal_id": "S116608325",
+    "label": "Journal of General Internal Medicine",
+    "name": "Journal of General Internal Medicine",
+    "issn_l": "0884-8734",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S115925768",
+    "type": "journal",
+    "journal_id": "S115925768",
+    "label": "Journal of Global Optimization",
+    "name": "Journal of Global Optimization",
+    "issn_l": "0925-5001",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S122290859",
+    "type": "journal",
+    "journal_id": "S122290859",
+    "label": "Journal of Health and Social Behavior",
+    "name": "Journal of Health and Social Behavior",
+    "issn_l": "0022-1465",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S55737203",
+    "type": "journal",
+    "journal_id": "S55737203",
+    "label": "Journal of Hydrology",
+    "name": "Journal of Hydrology",
+    "issn_l": "0022-1694",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S201669150",
+    "type": "journal",
+    "journal_id": "S201669150",
+    "label": "Journal of Immunological Methods",
+    "name": "Journal of Immunological Methods",
+    "issn_l": "0022-1759",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S19366293",
+    "type": "journal",
+    "journal_id": "S19366293",
+    "label": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics",
+    "name": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics",
+    "issn_l": "1347-7986",
+    "source_type": "journal",
+    "host_organization_name": "Japan Society for Fuzzy Theory and Intelligent Informatics"
+  },
+  {
+    "id": "journal:S118988714",
+    "type": "journal",
+    "journal_id": "S118988714",
+    "label": "Journal of Machine Learning Research",
+    "name": "Journal of Machine Learning Research",
+    "issn_l": "1532-4435",
+    "source_type": "journal",
+    "host_organization_name": "The MIT Press"
+  },
+  {
+    "id": "journal:S122767448",
+    "type": "journal",
+    "journal_id": "S122767448",
+    "label": "Journal of Management",
+    "name": "Journal of Management",
+    "issn_l": "0149-2063",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S142990027",
+    "type": "journal",
+    "journal_id": "S142990027",
+    "label": "Journal of Marketing",
+    "name": "Journal of Marketing",
+    "issn_l": "0022-2429",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S119950638",
+    "type": "journal",
+    "journal_id": "S119950638",
+    "label": "Journal of Marketing Research",
+    "name": "Journal of Marketing Research",
+    "issn_l": "0022-2437",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S19730638",
+    "type": "journal",
+    "journal_id": "S19730638",
+    "label": "Journal of materials research/Pratt's guide to venture capital sources",
+    "name": "Journal of materials research/Pratt's guide to venture capital sources",
+    "issn_l": "0884-1616",
+    "source_type": "journal",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S46058472",
+    "type": "journal",
+    "journal_id": "S46058472",
+    "label": "Journal of Molecular Biology",
+    "name": "Journal of Molecular Biology",
+    "issn_l": "0022-2836",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S144184862",
+    "type": "journal",
+    "journal_id": "S144184862",
+    "label": "Journal of Molecular Evolution",
+    "name": "Journal of Molecular Evolution",
+    "issn_l": "0022-2844",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S162544196",
+    "type": "journal",
+    "journal_id": "S162544196",
+    "label": "Journal of Molecular Graphics",
+    "name": "Journal of Molecular Graphics",
+    "issn_l": "0263-7855",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S189140625",
+    "type": "journal",
+    "journal_id": "S189140625",
+    "label": "Journal of Molecular Liquids",
+    "name": "Journal of Molecular Liquids",
+    "issn_l": "0167-7322",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S134773490",
+    "type": "journal",
+    "journal_id": "S134773490",
+    "label": "Journal of Neurology Neurosurgery & Psychiatry",
+    "name": "Journal of Neurology Neurosurgery & Psychiatry",
+    "issn_l": "0022-3050",
+    "source_type": "journal",
+    "host_organization_name": "BMJ"
+  },
+  {
+    "id": "journal:S132751470",
+    "type": "journal",
+    "journal_id": "S132751470",
+    "label": "Journal of Neuroscience Methods",
+    "name": "Journal of Neuroscience Methods",
+    "issn_l": "0165-0270",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S29984966",
+    "type": "journal",
+    "journal_id": "S29984966",
+    "label": "Journal of Personality and Social Psychology",
+    "name": "Journal of Personality and Social Psychology",
+    "issn_l": "0022-3514",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S190924190",
+    "type": "journal",
+    "journal_id": "S190924190",
+    "label": "Journal of Physics Condensed Matter",
+    "name": "Journal of Physics Condensed Matter",
+    "issn_l": "0953-8984",
+    "source_type": "journal",
+    "host_organization_name": "IOP Publishing"
+  },
+  {
+    "id": "journal:S25370267",
+    "type": "journal",
+    "journal_id": "S25370267",
+    "label": "Journal of Policy Analysis and Management",
+    "name": "Journal of Policy Analysis and Management",
+    "issn_l": "0276-8739",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S95323914",
+    "type": "journal",
+    "journal_id": "S95323914",
+    "label": "Journal of Political Economy",
+    "name": "Journal of Political Economy",
+    "issn_l": "0022-3808",
+    "source_type": "journal",
+    "host_organization_name": "University of Chicago Press"
+  },
+  {
+    "id": "journal:S160879026",
+    "type": "journal",
+    "journal_id": "S160879026",
+    "label": "Journal of Psychiatric Research",
+    "name": "Journal of Psychiatric Research",
+    "issn_l": "0022-3956",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S167943036",
+    "type": "journal",
+    "journal_id": "S167943036",
+    "label": "Journal of Statistical Mechanics Theory and Experiment",
+    "name": "Journal of Statistical Mechanics Theory and Experiment",
+    "issn_l": "1742-5468",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Physics"
+  },
+  {
+    "id": "journal:S167961193",
+    "type": "journal",
+    "journal_id": "S167961193",
+    "label": "Journal of Statistical Software",
+    "name": "Journal of Statistical Software",
+    "issn_l": "1548-7660",
+    "source_type": "journal",
+    "host_organization_name": "Foundation for Open Access Statistics"
+  },
+  {
+    "id": "journal:S114484406",
+    "type": "journal",
+    "journal_id": "S114484406",
+    "label": "Journal of Synchrotron Radiation",
+    "name": "Journal of Synchrotron Radiation",
+    "issn_l": "0909-0495",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S92522684",
+    "type": "journal",
+    "journal_id": "S92522684",
+    "label": "Journal of the Academy of Marketing Science",
+    "name": "Journal of the Academy of Marketing Science",
+    "issn_l": "0092-0703",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S111155417",
+    "type": "journal",
+    "journal_id": "S111155417",
+    "label": "Journal of the American Chemical Society",
+    "name": "Journal of the American Chemical Society",
+    "issn_l": "0002-7863",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S150273397",
+    "type": "journal",
+    "journal_id": "S150273397",
+    "label": "Journal of the American Dietetic Association",
+    "name": "Journal of the American Dietetic Association",
+    "issn_l": "0002-8223",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S204183829",
+    "type": "journal",
+    "journal_id": "S204183829",
+    "label": "Journal of the American Geriatrics Society",
+    "name": "Journal of the American Geriatrics Society",
+    "issn_l": "0002-8614",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S185321339",
+    "type": "journal",
+    "journal_id": "S185321339",
+    "label": "Journal of the American Society of Echocardiography",
+    "name": "Journal of the American Society of Echocardiography",
+    "issn_l": "0894-7317",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4394736638",
+    "type": "journal",
+    "journal_id": "S4394736638",
+    "label": "Journal of the American Statistical Association",
+    "name": "Journal of the American Statistical Association",
+    "issn_l": "0162-1459",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S131264402",
+    "type": "journal",
+    "journal_id": "S131264402",
+    "label": "Journal of the Atmospheric Sciences",
+    "name": "Journal of the Atmospheric Sciences",
+    "issn_l": "0022-4928",
+    "source_type": "journal",
+    "host_organization_name": "American Meteorological Society"
+  },
+  {
+    "id": "journal:S183498172",
+    "type": "journal",
+    "journal_id": "S183498172",
+    "label": "Journal of the Franklin Institute",
+    "name": "Journal of the Franklin Institute",
+    "issn_l": "0016-0032",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S105775785",
+    "type": "journal",
+    "journal_id": "S105775785",
+    "label": "Journal of the Mechanics and Physics of Solids",
+    "name": "Journal of the Mechanics and Physics of Solids",
+    "issn_l": "0022-5096",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S169988927",
+    "type": "journal",
+    "journal_id": "S169988927",
+    "label": "Journal of the Operational Research Society",
+    "name": "Journal of the Operational Research Society",
+    "issn_l": "0160-5682",
+    "source_type": "journal",
+    "host_organization_name": "Palgrave Macmillan"
+  },
+  {
+    "id": "journal:S4210239914",
+    "type": "journal",
+    "journal_id": "S4210239914",
+    "label": "Journal of the Royal Statistical Society Series A (General)",
+    "name": "Journal of the Royal Statistical Society Series A (General)",
+    "issn_l": "0035-9238",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S145009937",
+    "type": "journal",
+    "journal_id": "S145009937",
+    "label": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+    "name": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+    "issn_l": "1369-7412",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S4210214951",
+    "type": "journal",
+    "journal_id": "S4210214951",
+    "label": "Journal of the Society for Industrial and Applied Mathematics",
+    "name": "Journal of the Society for Industrial and Applied Mathematics",
+    "issn_l": "0368-4245",
+    "source_type": "journal",
+    "host_organization_name": "Society for Industrial and Applied Mathematics"
+  },
+  {
+    "id": "journal:S109682412",
+    "type": "journal",
+    "journal_id": "S109682412",
+    "label": "Journal of Theoretical Biology",
+    "name": "Journal of Theoretical Biology",
+    "issn_l": "0022-5193",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S72902805",
+    "type": "journal",
+    "journal_id": "S72902805",
+    "label": "Journal of Wildlife Management",
+    "name": "Journal of Wildlife Management",
+    "issn_l": "0022-541X",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S167815962",
+    "type": "journal",
+    "journal_id": "S167815962",
+    "label": "Kidney & Blood Pressure Research",
+    "name": "Kidney & Blood Pressure Research",
+    "issn_l": "1420-4096",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S4306402641",
+    "type": "journal",
+    "journal_id": "S4306402641",
+    "label": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "LA Referencia"
+  },
+  {
+    "id": "journal:S149285975",
+    "type": "journal",
+    "journal_id": "S149285975",
+    "label": "Land Economics",
+    "name": "Land Economics",
+    "issn_l": "0023-7639",
+    "source_type": "journal",
+    "host_organization_name": "University of Wisconsin Press"
+  },
+  {
+    "id": "journal:S106296714",
+    "type": "journal",
+    "journal_id": "S106296714",
+    "label": "Lecture notes in computer science",
+    "name": "Lecture notes in computer science",
+    "issn_l": "0302-9743",
+    "source_type": "book series",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S118039931",
+    "type": "journal",
+    "journal_id": "S118039931",
+    "label": "Lecture notes in mathematics",
+    "name": "Lecture notes in mathematics",
+    "issn_l": "0075-8434",
+    "source_type": "book series",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S9435936",
+    "type": "journal",
+    "journal_id": "S9435936",
+    "label": "Long Range Planning",
+    "name": "Long Range Planning",
+    "issn_l": "0024-6301",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S26760650",
+    "type": "journal",
+    "journal_id": "S26760650",
+    "label": "LWT",
+    "name": "LWT",
+    "issn_l": "0023-6438",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4306488689",
+    "type": "journal",
+    "journal_id": "S4306488689",
+    "label": "Macat Library eBooks",
+    "name": "Macat Library eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S62148650",
+    "type": "journal",
+    "journal_id": "S62148650",
+    "label": "Machine Learning",
+    "name": "Machine Learning",
+    "issn_l": "0885-6125",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:name:machine learning under malware attack",
+    "type": "journal",
+    "journal_id": "name:machine learning under malware attack",
+    "label": "Machine Learning under Malware Attack",
+    "name": "Machine Learning under Malware Attack",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4210196053",
+    "type": "journal",
+    "journal_id": "S4210196053",
+    "label": "Man",
+    "name": "Man",
+    "issn_l": "0025-1496",
+    "source_type": "journal",
+    "host_organization_name": "Royal Anthropological Institute of Great Britain and Ireland"
+  },
+  {
+    "id": "journal:S33323087",
+    "type": "journal",
+    "journal_id": "S33323087",
+    "label": "Management Science",
+    "name": "Management Science",
+    "issn_l": "0025-1909",
+    "source_type": "journal",
+    "host_organization_name": "Institute for Operations Research and the Management Sciences"
+  },
+  {
+    "id": "journal:S102439543",
+    "type": "journal",
+    "journal_id": "S102439543",
+    "label": "Mathematics of Computation",
+    "name": "Mathematics of Computation",
+    "issn_l": "0025-5718",
+    "source_type": "journal",
+    "host_organization_name": "American Mathematical Society"
+  },
+  {
+    "id": "journal:S4306463610",
+    "type": "journal",
+    "journal_id": "S4306463610",
+    "label": "McGraw-Hill Book Company",
+    "name": "McGraw-Hill Book Company",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "McGraw Hill Book Company"
+  },
+  {
+    "id": "journal:S79233773",
+    "type": "journal",
+    "journal_id": "S79233773",
+    "label": "Medical Care",
+    "name": "Medical Care",
+    "issn_l": "0025-7079",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S4210197683",
+    "type": "journal",
+    "journal_id": "S4210197683",
+    "label": "Medical Entomology and Zoology",
+    "name": "Medical Entomology and Zoology",
+    "issn_l": "0424-7086",
+    "source_type": "journal",
+    "host_organization_name": "Japan Society of Medical Entomology and Zoology"
+  },
+  {
+    "id": "journal:S14544163",
+    "type": "journal",
+    "journal_id": "S14544163",
+    "label": "Medicine & Science in Sports & Exercise",
+    "name": "Medicine & Science in Sports & Exercise",
+    "issn_l": "0195-9131",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S73539393",
+    "type": "journal",
+    "journal_id": "S73539393",
+    "label": "Methods",
+    "name": "Methods",
+    "issn_l": "1046-2023",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S182211142",
+    "type": "journal",
+    "journal_id": "S182211142",
+    "label": "Methods in enzymology on CD-ROM/Methods in enzymology",
+    "name": "Methods in enzymology on CD-ROM/Methods in enzymology",
+    "issn_l": "0076-6879",
+    "source_type": "book series",
+    "host_organization_name": "Academic Press"
+  },
+  {
+    "id": "journal:S4210173168",
+    "type": "journal",
+    "journal_id": "S4210173168",
+    "label": "Midwest Journal of Political Science",
+    "name": "Midwest Journal of Political Science",
+    "issn_l": "0026-3397",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S57293258",
+    "type": "journal",
+    "journal_id": "S57293258",
+    "label": "MIS Quarterly",
+    "name": "MIS Quarterly",
+    "issn_l": "0276-7783",
+    "source_type": "journal",
+    "host_organization_name": "MIS Quarterly"
+  },
+  {
+    "id": "journal:S117777245",
+    "type": "journal",
+    "journal_id": "S117777245",
+    "label": "Modelling and Simulation in Materials Science and Engineering",
+    "name": "Modelling and Simulation in Materials Science and Engineering",
+    "issn_l": "0965-0393",
+    "source_type": "journal",
+    "host_organization_name": "IOP Publishing"
+  },
+  {
+    "id": "journal:S72851247",
+    "type": "journal",
+    "journal_id": "S72851247",
+    "label": "Modern Language Journal",
+    "name": "Modern Language Journal",
+    "issn_l": "0026-7902",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S57552105",
+    "type": "journal",
+    "journal_id": "S57552105",
+    "label": "Molecular Biology and Evolution",
+    "name": "Molecular Biology and Evolution",
+    "issn_l": "0737-4038",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S22454499",
+    "type": "journal",
+    "journal_id": "S22454499",
+    "label": "Molecular Ecology",
+    "name": "Molecular Ecology",
+    "issn_l": "0962-1083",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S165787973",
+    "type": "journal",
+    "journal_id": "S165787973",
+    "label": "Molecular Ecology Notes",
+    "name": "Molecular Ecology Notes",
+    "issn_l": "1471-8278",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S64961995",
+    "type": "journal",
+    "journal_id": "S64961995",
+    "label": "Molecular Ecology Resources",
+    "name": "Molecular Ecology Resources",
+    "issn_l": "1755-098X",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S204809294",
+    "type": "journal",
+    "journal_id": "S204809294",
+    "label": "Molecular Physics",
+    "name": "Molecular Physics",
+    "issn_l": "0026-8976",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S200893805",
+    "type": "journal",
+    "journal_id": "S200893805",
+    "label": "Molecular Systems Biology",
+    "name": "Molecular Systems Biology",
+    "issn_l": "1744-4292",
+    "source_type": "journal",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S4306463641",
+    "type": "journal",
+    "journal_id": "S4306463641",
+    "label": "National Academies Press eBooks",
+    "name": "National Academies Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S137773608",
+    "type": "journal",
+    "journal_id": "S137773608",
+    "label": "Nature",
+    "name": "Nature",
+    "issn_l": "0028-0836",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S106963461",
+    "type": "journal",
+    "journal_id": "S106963461",
+    "label": "Nature Biotechnology",
+    "name": "Nature Biotechnology",
+    "issn_l": "1087-0156",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S137905309",
+    "type": "journal",
+    "journal_id": "S137905309",
+    "label": "Nature Genetics",
+    "name": "Nature Genetics",
+    "issn_l": "1061-4036",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S103895331",
+    "type": "journal",
+    "journal_id": "S103895331",
+    "label": "Nature Materials",
+    "name": "Nature Materials",
+    "issn_l": "1476-1122",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S127827428",
+    "type": "journal",
+    "journal_id": "S127827428",
+    "label": "Nature Methods",
+    "name": "Nature Methods",
+    "issn_l": "1548-7091",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S7822423",
+    "type": "journal",
+    "journal_id": "S7822423",
+    "label": "Nature Nanotechnology",
+    "name": "Nature Nanotechnology",
+    "issn_l": "1748-3387",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S109387254",
+    "type": "journal",
+    "journal_id": "S109387254",
+    "label": "Nature Protocols",
+    "name": "Nature Protocols",
+    "issn_l": "1750-2799",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S168252155",
+    "type": "journal",
+    "journal_id": "S168252155",
+    "label": "Neonatology",
+    "name": "Neonatology",
+    "issn_l": "1661-7800",
+    "source_type": "journal",
+    "host_organization_name": "Karger Publishers"
+  },
+  {
+    "id": "journal:S207023548",
+    "type": "journal",
+    "journal_id": "S207023548",
+    "label": "Neural Computation",
+    "name": "Neural Computation",
+    "issn_l": "0899-7667",
+    "source_type": "journal",
+    "host_organization_name": "The MIT Press"
+  },
+  {
+    "id": "journal:S123019304",
+    "type": "journal",
+    "journal_id": "S123019304",
+    "label": "Neural Networks",
+    "name": "Neural Networks",
+    "issn_l": "0893-6080",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S45693802",
+    "type": "journal",
+    "journal_id": "S45693802",
+    "label": "Neurocomputing",
+    "name": "Neurocomputing",
+    "issn_l": "0925-2312",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S103225281",
+    "type": "journal",
+    "journal_id": "S103225281",
+    "label": "NeuroImage",
+    "name": "NeuroImage",
+    "issn_l": "1053-8119",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S79704628",
+    "type": "journal",
+    "journal_id": "S79704628",
+    "label": "Neurology",
+    "name": "Neurology",
+    "issn_l": "0028-3878",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S86238769",
+    "type": "journal",
+    "journal_id": "S86238769",
+    "label": "Neuropeptides",
+    "name": "Neuropeptides",
+    "issn_l": "0143-4179",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S165368631",
+    "type": "journal",
+    "journal_id": "S165368631",
+    "label": "Neuropsychologia",
+    "name": "Neuropsychologia",
+    "issn_l": "0028-3932",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S62468778",
+    "type": "journal",
+    "journal_id": "S62468778",
+    "label": "New England Journal of Medicine",
+    "name": "New England Journal of Medicine",
+    "issn_l": "0028-4793",
+    "source_type": "journal",
+    "host_organization_name": "Massachusetts Medical Society"
+  },
+  {
+    "id": "journal:S145630073",
+    "type": "journal",
+    "journal_id": "S145630073",
+    "label": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+    "name": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+    "issn_l": "0168-9002",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S134668137",
+    "type": "journal",
+    "journal_id": "S134668137",
+    "label": "Nucleic Acids Research",
+    "name": "Nucleic Acids Research",
+    "issn_l": "0305-1048",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S193378857",
+    "type": "journal",
+    "journal_id": "S193378857",
+    "label": "Nucleic Acids Symposium Series",
+    "name": "Nucleic Acids Symposium Series",
+    "issn_l": "0261-3166",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S4210205683",
+    "type": "journal",
+    "journal_id": "S4210205683",
+    "label": "Numerische Mathematik",
+    "name": "Numerische Mathematik",
+    "issn_l": "0029-599X",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S62565178",
+    "type": "journal",
+    "journal_id": "S62565178",
+    "label": "Nurse Education Today",
+    "name": "Nurse Education Today",
+    "issn_l": "0260-6917",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S57227388",
+    "type": "journal",
+    "journal_id": "S57227388",
+    "label": "Nursing Research",
+    "name": "Nursing Research",
+    "issn_l": "0029-6562",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S38078933",
+    "type": "journal",
+    "journal_id": "S38078933",
+    "label": "Nutrition Reviews",
+    "name": "Nutrition Reviews",
+    "issn_l": "0029-6643",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S116972989",
+    "type": "journal",
+    "journal_id": "S116972989",
+    "label": "OMICS A Journal of Integrative Biology",
+    "name": "OMICS A Journal of Integrative Biology",
+    "issn_l": "1536-2310",
+    "source_type": "journal",
+    "host_organization_name": "Mary Ann Liebert, Inc."
+  },
+  {
+    "id": "journal:S206124708",
+    "type": "journal",
+    "journal_id": "S206124708",
+    "label": "Organization Science",
+    "name": "Organization Science",
+    "issn_l": "1047-7039",
+    "source_type": "journal",
+    "host_organization_name": "Institute for Operations Research and the Management Sciences"
+  },
+  {
+    "id": "journal:S64744539",
+    "type": "journal",
+    "journal_id": "S64744539",
+    "label": "Organizational Behavior and Human Decision Processes",
+    "name": "Organizational Behavior and Human Decision Processes",
+    "issn_l": "0749-5978",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4306463708",
+    "type": "journal",
+    "journal_id": "S4306463708",
+    "label": "Oxford University Press eBooks",
+    "name": "Oxford University Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S22496335",
+    "type": "journal",
+    "journal_id": "S22496335",
+    "label": "Pacific Affairs",
+    "name": "Pacific Affairs",
+    "issn_l": "0030-851X",
+    "source_type": "journal",
+    "host_organization_name": "University of British Columbia"
+  },
+  {
+    "id": "journal:S130519153",
+    "type": "journal",
+    "journal_id": "S130519153",
+    "label": "Palaeontologia Electronica",
+    "name": "Palaeontologia Electronica",
+    "issn_l": "1094-8074",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S39041608",
+    "type": "journal",
+    "journal_id": "S39041608",
+    "label": "Patient Education and Counseling",
+    "name": "Patient Education and Counseling",
+    "issn_l": "0738-3991",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S151820558",
+    "type": "journal",
+    "journal_id": "S151820558",
+    "label": "Pattern Recognition Letters",
+    "name": "Pattern Recognition Letters",
+    "issn_l": "0167-8655",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4210199927",
+    "type": "journal",
+    "journal_id": "S4210199927",
+    "label": "Performance + Instruction",
+    "name": "Performance + Instruction",
+    "issn_l": "0884-1985",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S203465302",
+    "type": "journal",
+    "journal_id": "S203465302",
+    "label": "Pflügers Archiv - European Journal of Physiology",
+    "name": "Pflügers Archiv - European Journal of Physiology",
+    "issn_l": "0031-6768",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S2764821508",
+    "type": "journal",
+    "journal_id": "S2764821508",
+    "label": "Philosophy study",
+    "name": "Philosophy study",
+    "issn_l": "2159-5313",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S181332294",
+    "type": "journal",
+    "journal_id": "S181332294",
+    "label": "Physical Chemistry Chemical Physics",
+    "name": "Physical Chemistry Chemical Physics",
+    "issn_l": "1463-9076",
+    "source_type": "journal",
+    "host_organization_name": "Royal Society of Chemistry"
+  },
+  {
+    "id": "journal:S54862371",
+    "type": "journal",
+    "journal_id": "S54862371",
+    "label": "Physical Review",
+    "name": "Physical Review",
+    "issn_l": "0031-899X",
+    "source_type": "journal",
+    "host_organization_name": "American Institute of Physics"
+  },
+  {
+    "id": "journal:S24807848",
+    "type": "journal",
+    "journal_id": "S24807848",
+    "label": "Physical Review Letters",
+    "name": "Physical Review Letters",
+    "issn_l": "0031-9007",
+    "source_type": "journal",
+    "host_organization_name": "American Physical Society"
+  },
+  {
+    "id": "journal:S4210219937",
+    "type": "journal",
+    "journal_id": "S4210219937",
+    "label": "Physical review. A, General physics",
+    "name": "Physical review. A, General physics",
+    "issn_l": "0556-2791",
+    "source_type": "journal",
+    "host_organization_name": "American Institute of Physics"
+  },
+  {
+    "id": "journal:S4210174675",
+    "type": "journal",
+    "journal_id": "S4210174675",
+    "label": "Physical review. B, Condensed matter",
+    "name": "Physical review. B, Condensed matter",
+    "issn_l": "0163-1829",
+    "source_type": "journal",
+    "host_organization_name": "American Physical Society"
+  },
+  {
+    "id": "journal:S4210208989",
+    "type": "journal",
+    "journal_id": "S4210208989",
+    "label": "Physical review. B, Solid state",
+    "name": "Physical review. B, Solid state",
+    "issn_l": "0556-2805",
+    "source_type": "journal",
+    "host_organization_name": "American Physical Society"
+  },
+  {
+    "id": "journal:S180907581",
+    "type": "journal",
+    "journal_id": "S180907581",
+    "label": "Physics Today",
+    "name": "Physics Today",
+    "issn_l": "0031-9228",
+    "source_type": "journal",
+    "host_organization_name": "AIP Publishing"
+  },
+  {
+    "id": "journal:S185046733",
+    "type": "journal",
+    "journal_id": "S185046733",
+    "label": "Physiologia Plantarum",
+    "name": "Physiologia Plantarum",
+    "issn_l": "0031-9317",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S11781297",
+    "type": "journal",
+    "journal_id": "S11781297",
+    "label": "Plant and Soil",
+    "name": "Plant and Soil",
+    "issn_l": "0032-079X",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S42294715",
+    "type": "journal",
+    "journal_id": "S42294715",
+    "label": "PLANT PHYSIOLOGY",
+    "name": "PLANT PHYSIOLOGY",
+    "issn_l": "0032-0889",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S46033839",
+    "type": "journal",
+    "journal_id": "S46033839",
+    "label": "Plasma and Fusion Research",
+    "name": "Plasma and Fusion Research",
+    "issn_l": "1880-6821",
+    "source_type": "journal",
+    "host_organization_name": "Japan Society of Plasma Science and Nuclear Fusion Research"
+  },
+  {
+    "id": "journal:S197939330",
+    "type": "journal",
+    "journal_id": "S197939330",
+    "label": "PLoS Medicine",
+    "name": "PLoS Medicine",
+    "issn_l": "1549-1277",
+    "source_type": "journal",
+    "host_organization_name": "Public Library of Science"
+  },
+  {
+    "id": "journal:S202381698",
+    "type": "journal",
+    "journal_id": "S202381698",
+    "label": "PLoS ONE",
+    "name": "PLoS ONE",
+    "issn_l": "1932-6203",
+    "source_type": "journal",
+    "host_organization_name": "Public Library of Science"
+  },
+  {
+    "id": "journal:S4306402433",
+    "type": "journal",
+    "journal_id": "S4306402433",
+    "label": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "name": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4306463805",
+    "type": "journal",
+    "journal_id": "S4306463805",
+    "label": "Princeton University Press eBooks",
+    "name": "Princeton University Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Princeton University Press"
+  },
+  {
+    "id": "journal:name:proceedings of icnn'95 - international conference on neural networks",
+    "type": "journal",
+    "journal_id": "name:proceedings of icnn'95 - international conference on neural networks",
+    "label": "Proceedings of ICNN'95 - International Conference on Neural Networks",
+    "name": "Proceedings of ICNN'95 - International Conference on Neural Networks",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:proceedings of the 2001 ieee computer society conference on computer vision and pattern recognition. cvpr 2001",
+    "type": "journal",
+    "journal_id": "name:proceedings of the 2001 ieee computer society conference on computer vision and pattern recognition. cvpr 2001",
+    "label": "Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001",
+    "name": "Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:proceedings of the 2014 conference on empirical methods in natural language processing (emnlp)",
+    "type": "journal",
+    "journal_id": "name:proceedings of the 2014 conference on empirical methods in natural language processing (emnlp)",
+    "label": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "name": "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:proceedings of the 2019 conference of the north",
+    "type": "journal",
+    "journal_id": "name:proceedings of the 2019 conference of the north",
+    "label": "Proceedings of the 2019 Conference of the North",
+    "name": "Proceedings of the 2019 Conference of the North",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining",
+    "type": "journal",
+    "journal_id": "name:proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining",
+    "label": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "name": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:name:proceedings of the 40th annual meeting on association for computational linguistics  - acl '02",
+    "type": "journal",
+    "journal_id": "name:proceedings of the 40th annual meeting on association for computational linguistics  - acl '02",
+    "label": "Proceedings of the 40th Annual Meeting on Association for Computational Linguistics  - ACL '02",
+    "name": "Proceedings of the 40th Annual Meeting on Association for Computational Linguistics  - ACL '02",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S68686220",
+    "type": "journal",
+    "journal_id": "S68686220",
+    "label": "Proceedings of the IEEE",
+    "name": "Proceedings of the IEEE",
+    "issn_l": "0018-9219",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "id": "journal:S125754415",
+    "type": "journal",
+    "journal_id": "S125754415",
+    "label": "Proceedings of the National Academy of Sciences",
+    "name": "Proceedings of the National Academy of Sciences",
+    "issn_l": "0027-8424",
+    "source_type": "journal",
+    "host_organization_name": "National Academy of Sciences"
+  },
+  {
+    "id": "journal:S3006183880",
+    "type": "journal",
+    "journal_id": "S3006183880",
+    "label": "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences",
+    "name": "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences",
+    "issn_l": "1364-5021",
+    "source_type": "journal",
+    "host_organization_name": "Royal Society"
+  },
+  {
+    "id": "journal:name:proceedings of the seventh ieee international conference on computer vision",
+    "type": "journal",
+    "journal_id": "name:proceedings of the seventh ieee international conference on computer vision",
+    "label": "Proceedings of the Seventh IEEE International Conference on Computer Vision",
+    "name": "Proceedings of the Seventh IEEE International Conference on Computer Vision",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S173499201",
+    "type": "journal",
+    "journal_id": "S173499201",
+    "label": "Process Biochemistry",
+    "name": "Process Biochemistry",
+    "issn_l": "1359-5113",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S84074229",
+    "type": "journal",
+    "journal_id": "S84074229",
+    "label": "Psychiatry Research",
+    "name": "Psychiatry Research",
+    "issn_l": "0165-1781",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S75627607",
+    "type": "journal",
+    "journal_id": "S75627607",
+    "label": "Psychological Bulletin",
+    "name": "Psychological Bulletin",
+    "issn_l": "0033-2909",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S16647404",
+    "type": "journal",
+    "journal_id": "S16647404",
+    "label": "Psychological Inquiry",
+    "name": "Psychological Inquiry",
+    "issn_l": "1047-840X",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S35223124",
+    "type": "journal",
+    "journal_id": "S35223124",
+    "label": "Psychological Review",
+    "name": "Psychological Review",
+    "issn_l": "0033-295X",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S4306463811",
+    "type": "journal",
+    "journal_id": "S4306463811",
+    "label": "Psychology Press eBooks",
+    "name": "Psychology Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S186480540",
+    "type": "journal",
+    "journal_id": "S186480540",
+    "label": "Psychometrika",
+    "name": "Psychometrika",
+    "issn_l": "0033-3123",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S4306525036",
+    "type": "journal",
+    "journal_id": "S4306525036",
+    "label": "PubMed",
+    "name": "PubMed",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "National Institutes of Health"
+  },
+  {
+    "id": "journal:S142816121",
+    "type": "journal",
+    "journal_id": "S142816121",
+    "label": "Pure and Applied Chemistry",
+    "name": "Pure and Applied Chemistry",
+    "issn_l": "0033-4545",
+    "source_type": "journal",
+    "host_organization_name": "International Union of Pure and Applied Chemistry"
+  },
+  {
+    "id": "journal:S32648145",
+    "type": "journal",
+    "journal_id": "S32648145",
+    "label": "Qualitative Health Research",
+    "name": "Qualitative Health Research",
+    "issn_l": "1049-7323",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S51001188",
+    "type": "journal",
+    "journal_id": "S51001188",
+    "label": "Qualitative Research in Psychology",
+    "name": "Qualitative Research in Psychology",
+    "issn_l": "1478-0887",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S2764513707",
+    "type": "journal",
+    "journal_id": "S2764513707",
+    "label": "Qualitative Research in Sport Exercise and Health",
+    "name": "Qualitative Research in Sport Exercise and Health",
+    "issn_l": "2159-676X",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S70522100",
+    "type": "journal",
+    "journal_id": "S70522100",
+    "label": "Quarterly Journal of the Royal Meteorological Society",
+    "name": "Quarterly Journal of the Royal Meteorological Society",
+    "issn_l": "0035-9009",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S50280174",
+    "type": "journal",
+    "journal_id": "S50280174",
+    "label": "Radiology",
+    "name": "Radiology",
+    "issn_l": "0033-8419",
+    "source_type": "journal",
+    "host_organization_name": "Radiological Society of North America"
+  },
+  {
+    "id": "journal:S4306401271",
+    "type": "journal",
+    "journal_id": "S4306401271",
+    "label": "RePEc: Research Papers in Economics",
+    "name": "RePEc: Research Papers in Economics",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "Federal Reserve Bank of St. Louis"
+  },
+  {
+    "id": "journal:S73260565",
+    "type": "journal",
+    "journal_id": "S73260565",
+    "label": "Reviews of Modern Physics",
+    "name": "Reviews of Modern Physics",
+    "issn_l": "0034-6861",
+    "source_type": "journal",
+    "host_organization_name": "American Physical Society"
+  },
+  {
+    "id": "journal:S2739018597",
+    "type": "journal",
+    "journal_id": "S2739018597",
+    "label": "Revista de Administração Contemporânea",
+    "name": "Revista de Administração Contemporânea",
+    "issn_l": "1415-6555",
+    "source_type": "journal",
+    "host_organization_name": "Associação Nacional de Pós-Graduação e Pesquisa em Administração (ANPAD)"
+  },
+  {
+    "id": "journal:S115516397",
+    "type": "journal",
+    "journal_id": "S115516397",
+    "label": "Revue économique",
+    "name": "Revue économique",
+    "issn_l": "0035-2764",
+    "source_type": "journal",
+    "host_organization_name": "Sciences Po"
+  },
+  {
+    "id": "journal:name:rugman reviews",
+    "type": "journal",
+    "journal_id": "name:rugman reviews",
+    "label": "Rugman Reviews",
+    "name": "Rugman Reviews",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4306463867",
+    "type": "journal",
+    "journal_id": "S4306463867",
+    "label": "Sage eBooks",
+    "name": "Sage eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S72071028",
+    "type": "journal",
+    "journal_id": "S72071028",
+    "label": "Scandinavian Journal of Statistics",
+    "name": "Scandinavian Journal of Statistics",
+    "issn_l": "0303-6898",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S117485531",
+    "type": "journal",
+    "journal_id": "S117485531",
+    "label": "Schizophrenia Bulletin",
+    "name": "Schizophrenia Bulletin",
+    "issn_l": "0586-7614",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S3880285",
+    "type": "journal",
+    "journal_id": "S3880285",
+    "label": "Science",
+    "name": "Science",
+    "issn_l": "0036-8075",
+    "source_type": "journal",
+    "host_organization_name": "American Association for the Advancement of Science"
+  },
+  {
+    "id": "journal:S2737427234",
+    "type": "journal",
+    "journal_id": "S2737427234",
+    "label": "Science Advances",
+    "name": "Science Advances",
+    "issn_l": "2375-2548",
+    "source_type": "journal",
+    "host_organization_name": "American Association for the Advancement of Science"
+  },
+  {
+    "id": "journal:S155937366",
+    "type": "journal",
+    "journal_id": "S155937366",
+    "label": "Science Signaling",
+    "name": "Science Signaling",
+    "issn_l": "1937-9145",
+    "source_type": "journal",
+    "host_organization_name": "American Association for the Advancement of Science"
+  },
+  {
+    "id": "journal:S2607323502",
+    "type": "journal",
+    "journal_id": "S2607323502",
+    "label": "Scientific Data",
+    "name": "Scientific Data",
+    "issn_l": "2052-4463",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S196734849",
+    "type": "journal",
+    "journal_id": "S196734849",
+    "label": "Scientific Reports",
+    "name": "Scientific Reports",
+    "issn_l": "2045-2322",
+    "source_type": "journal",
+    "host_organization_name": "Nature Portfolio"
+  },
+  {
+    "id": "journal:S148561398",
+    "type": "journal",
+    "journal_id": "S148561398",
+    "label": "Scientometrics",
+    "name": "Scientometrics",
+    "issn_l": "0138-9130",
+    "source_type": "journal",
+    "host_organization_name": "Springer Nature (Netherlands)"
+  },
+  {
+    "id": "journal:S160107561",
+    "type": "journal",
+    "journal_id": "S160107561",
+    "label": "SIAM Review",
+    "name": "SIAM Review",
+    "issn_l": "0036-1445",
+    "source_type": "journal",
+    "host_organization_name": "Society for Industrial and Applied Mathematics"
+  },
+  {
+    "id": "journal:S42921845",
+    "type": "journal",
+    "journal_id": "S42921845",
+    "label": "SLEEP",
+    "name": "SLEEP",
+    "issn_l": "0161-8105",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S130611943",
+    "type": "journal",
+    "journal_id": "S130611943",
+    "label": "Social Forces",
+    "name": "Social Forces",
+    "issn_l": "0037-7732",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S26186134",
+    "type": "journal",
+    "journal_id": "S26186134",
+    "label": "Social Networks",
+    "name": "Social Networks",
+    "issn_l": "0378-8733",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:name:social theory re-wired",
+    "type": "journal",
+    "journal_id": "name:social theory re-wired",
+    "label": "Social Theory Re-Wired",
+    "name": "Social Theory Re-Wired",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4306463922",
+    "type": "journal",
+    "journal_id": "S4306463922",
+    "label": "Society for Industrial and Applied Mathematics eBooks",
+    "name": "Society for Industrial and Applied Mathematics eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "Society for Industrial and Applied Mathematics"
+  },
+  {
+    "id": "journal:S9536269",
+    "type": "journal",
+    "journal_id": "S9536269",
+    "label": "Sociological Methods & Research",
+    "name": "Sociological Methods & Research",
+    "issn_l": "0049-1241",
+    "source_type": "journal",
+    "host_organization_name": "SAGE Publishing"
+  },
+  {
+    "id": "journal:S2506067282",
+    "type": "journal",
+    "journal_id": "S2506067282",
+    "label": "SoftwareX",
+    "name": "SoftwareX",
+    "issn_l": "2352-7110",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S90259781",
+    "type": "journal",
+    "journal_id": "S90259781",
+    "label": "Soil Science",
+    "name": "Soil Science",
+    "issn_l": "0038-075X",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S59755854",
+    "type": "journal",
+    "journal_id": "S59755854",
+    "label": "Soil Science Society of America Journal",
+    "name": "Soil Science Society of America Journal",
+    "issn_l": "0361-5995",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S16296580",
+    "type": "journal",
+    "journal_id": "S16296580",
+    "label": "Southern Economic Journal",
+    "name": "Southern Economic Journal",
+    "issn_l": "0038-4038",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S5152312",
+    "type": "journal",
+    "journal_id": "S5152312",
+    "label": "Spatial Vision",
+    "name": "Spatial Vision",
+    "issn_l": "0169-1015",
+    "source_type": "journal",
+    "host_organization_name": "Brill"
+  },
+  {
+    "id": "journal:name:speech acts",
+    "type": "journal",
+    "journal_id": "name:speech acts",
+    "label": "Speech Acts",
+    "name": "Speech Acts",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4210187552",
+    "type": "journal",
+    "journal_id": "S4210187552",
+    "label": "Springer series in statistics",
+    "name": "Springer series in statistics",
+    "issn_l": "0172-7397",
+    "source_type": "book series",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S161743634",
+    "type": "journal",
+    "journal_id": "S161743634",
+    "label": "Stanford Law Review",
+    "name": "Stanford Law Review",
+    "issn_l": "0038-9765",
+    "source_type": "journal",
+    "host_organization_name": "Stanford Law School"
+  },
+  {
+    "id": "journal:S4306463952",
+    "type": "journal",
+    "journal_id": "S4306463952",
+    "label": "Stanford University Press eBooks",
+    "name": "Stanford University Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S4210187487",
+    "type": "journal",
+    "journal_id": "S4210187487",
+    "label": "Statisctics and computing/Statistics and computing",
+    "name": "Statisctics and computing/Statistics and computing",
+    "issn_l": "1431-8784",
+    "source_type": "book series",
+    "host_organization_name": "Springer Nature"
+  },
+  {
+    "id": "journal:S12967704",
+    "type": "journal",
+    "journal_id": "S12967704",
+    "label": "Statistical Science",
+    "name": "Statistical Science",
+    "issn_l": "0883-4237",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Mathematical Statistics"
+  },
+  {
+    "id": "journal:S4210186945",
+    "type": "journal",
+    "journal_id": "S4210186945",
+    "label": "Statistics for biology and health",
+    "name": "Statistics for biology and health",
+    "issn_l": "2197-5663",
+    "source_type": "journal",
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S55189604",
+    "type": "journal",
+    "journal_id": "S55189604",
+    "label": "Statistics in Medicine",
+    "name": "Statistics in Medicine",
+    "issn_l": "0277-6715",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S102949365",
+    "type": "journal",
+    "journal_id": "S102949365",
+    "label": "Strategic Management Journal",
+    "name": "Strategic Management Journal",
+    "issn_l": "0143-2095",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S78020522",
+    "type": "journal",
+    "journal_id": "S78020522",
+    "label": "Structural Equation Modeling A Multidisciplinary Journal",
+    "name": "Structural Equation Modeling A Multidisciplinary Journal",
+    "issn_l": "1070-5511",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S120411249",
+    "type": "journal",
+    "journal_id": "S120411249",
+    "label": "Swarm Intelligence",
+    "name": "Swarm Intelligence",
+    "issn_l": "1935-3812",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S65478581",
+    "type": "journal",
+    "journal_id": "S65478581",
+    "label": "Systematic Biology",
+    "name": "Systematic Biology",
+    "issn_l": "1063-5157",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S82452678",
+    "type": "journal",
+    "journal_id": "S82452678",
+    "label": "Systematic Reviews",
+    "name": "Systematic Reviews",
+    "issn_l": "2046-4053",
+    "source_type": "journal",
+    "host_organization_name": "BioMed Central"
+  },
+  {
+    "id": "journal:S985303",
+    "type": "journal",
+    "journal_id": "S985303",
+    "label": "Technometrics",
+    "name": "Technometrics",
+    "issn_l": "0040-1706",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S97631563",
+    "type": "journal",
+    "journal_id": "S97631563",
+    "label": "Telos",
+    "name": "Telos",
+    "issn_l": "0090-6514",
+    "source_type": "journal",
+    "host_organization_name": "Telos"
+  },
+  {
+    "id": "journal:S134425043",
+    "type": "journal",
+    "journal_id": "S134425043",
+    "label": "The American Journal of Human Genetics",
+    "name": "The American Journal of Human Genetics",
+    "issn_l": "0002-9297",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S5762857",
+    "type": "journal",
+    "journal_id": "S5762857",
+    "label": "The Annals of Mathematical Statistics",
+    "name": "The Annals of Mathematical Statistics",
+    "issn_l": "0003-4851",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Mathematical Statistics"
+  },
+  {
+    "id": "journal:S119757635",
+    "type": "journal",
+    "journal_id": "S119757635",
+    "label": "The Annals of Statistics",
+    "name": "The Annals of Statistics",
+    "issn_l": "0090-5364",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Mathematical Statistics"
+  },
+  {
+    "id": "journal:S100695177",
+    "type": "journal",
+    "journal_id": "S100695177",
+    "label": "The Astronomical Journal",
+    "name": "The Astronomical Journal",
+    "issn_l": "0004-6256",
+    "source_type": "journal",
+    "host_organization_name": "Institute of Physics"
+  },
+  {
+    "id": "journal:S1980519",
+    "type": "journal",
+    "journal_id": "S1980519",
+    "label": "The Astrophysical Journal",
+    "name": "The Astrophysical Journal",
+    "issn_l": "0004-637X",
+    "source_type": "journal",
+    "host_organization_name": "IOP Publishing"
+  },
+  {
+    "id": "journal:S44643521",
+    "type": "journal",
+    "journal_id": "S44643521",
+    "label": "The Computer Journal",
+    "name": "The Computer Journal",
+    "issn_l": "0010-4620",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S45992627",
+    "type": "journal",
+    "journal_id": "S45992627",
+    "label": "The Economic Journal",
+    "name": "The Economic Journal",
+    "issn_l": "0013-0133",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S130337233",
+    "type": "journal",
+    "journal_id": "S130337233",
+    "label": "The Gerontologist",
+    "name": "The Gerontologist",
+    "issn_l": "0016-9013",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S96410829",
+    "type": "journal",
+    "journal_id": "S96410829",
+    "label": "The Journal of Cell Biology",
+    "name": "The Journal of Cell Biology",
+    "issn_l": "0021-9525",
+    "source_type": "journal",
+    "host_organization_name": "Rockefeller University Press"
+  },
+  {
+    "id": "journal:S77047749",
+    "type": "journal",
+    "journal_id": "S77047749",
+    "label": "The Journal of Chemical Physics",
+    "name": "The Journal of Chemical Physics",
+    "issn_l": "0021-9606",
+    "source_type": "journal",
+    "host_organization_name": "American Institute of Physics"
+  },
+  {
+    "id": "journal:S17992710",
+    "type": "journal",
+    "journal_id": "S17992710",
+    "label": "The Journal of Clinical Psychiatry",
+    "name": "The Journal of Clinical Psychiatry",
+    "issn_l": "0160-6689",
+    "source_type": "journal",
+    "host_organization_name": "Physicians Postgraduate Press, Inc."
+  },
+  {
+    "id": "journal:S5353659",
+    "type": "journal",
+    "journal_id": "S5353659",
+    "label": "The Journal of Finance",
+    "name": "The Journal of Finance",
+    "issn_l": "0022-1082",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S181027741",
+    "type": "journal",
+    "journal_id": "S181027741",
+    "label": "The Journal of Interdisciplinary History",
+    "name": "The Journal of Interdisciplinary History",
+    "issn_l": "0022-1953",
+    "source_type": "journal",
+    "host_organization_name": "The MIT Press"
+  },
+  {
+    "id": "journal:S998097505",
+    "type": "journal",
+    "journal_id": "S998097505",
+    "label": "The Journal of Law and Economics",
+    "name": "The Journal of Law and Economics",
+    "issn_l": "0022-2186",
+    "source_type": "journal",
+    "host_organization_name": "University of Chicago Press"
+  },
+  {
+    "id": "journal:S42468459",
+    "type": "journal",
+    "journal_id": "S42468459",
+    "label": "The Journal of Marketing Theory and Practice",
+    "name": "The Journal of Marketing Theory and Practice",
+    "issn_l": "1069-6679",
+    "source_type": "journal",
+    "host_organization_name": "Taylor & Francis"
+  },
+  {
+    "id": "journal:S13566964",
+    "type": "journal",
+    "journal_id": "S13566964",
+    "label": "The Journal of Nervous and Mental Disease",
+    "name": "The Journal of Nervous and Mental Disease",
+    "issn_l": "0022-3018",
+    "source_type": "journal",
+    "host_organization_name": "Lippincott Williams & Wilkins"
+  },
+  {
+    "id": "journal:S4210214273",
+    "type": "journal",
+    "journal_id": "S4210214273",
+    "label": "The Journal of Open Source Software",
+    "name": "The Journal of Open Source Software",
+    "issn_l": "2475-9066",
+    "source_type": "journal",
+    "host_organization_name": "Open Journals"
+  },
+  {
+    "id": "journal:S24459064",
+    "type": "journal",
+    "journal_id": "S24459064",
+    "label": "The Journal of Physical Chemistry",
+    "name": "The Journal of Physical Chemistry",
+    "issn_l": "0022-3654",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S185621672",
+    "type": "journal",
+    "journal_id": "S185621672",
+    "label": "The Journal of Physical Chemistry B",
+    "name": "The Journal of Physical Chemistry B",
+    "issn_l": "1520-5207",
+    "source_type": "journal",
+    "host_organization_name": "American Chemical Society"
+  },
+  {
+    "id": "journal:S2090548",
+    "type": "journal",
+    "journal_id": "S2090548",
+    "label": "The Journal of Physiology",
+    "name": "The Journal of Physiology",
+    "issn_l": "0022-3751",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S969433497",
+    "type": "journal",
+    "journal_id": "S969433497",
+    "label": "The Journals of Gerontology Series A",
+    "name": "The Journals of Gerontology Series A",
+    "issn_l": "1079-5006",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S49861241",
+    "type": "journal",
+    "journal_id": "S49861241",
+    "label": "The Lancet",
+    "name": "The Lancet",
+    "issn_l": "0140-6736",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4306463997",
+    "type": "journal",
+    "journal_id": "S4306463997",
+    "label": "The MIT Press eBooks",
+    "name": "The MIT Press eBooks",
+    "issn_l": null,
+    "source_type": "ebook platform",
+    "host_organization_name": "The MIT Press"
+  },
+  {
+    "id": "journal:S67862205",
+    "type": "journal",
+    "journal_id": "S67862205",
+    "label": "The Plant Journal",
+    "name": "The Plant Journal",
+    "issn_l": "0960-7412",
+    "source_type": "journal",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S2764583119",
+    "type": "journal",
+    "journal_id": "S2764583119",
+    "label": "The Psychological Monographs",
+    "name": "The Psychological Monographs",
+    "issn_l": "0096-9753",
+    "source_type": "journal",
+    "host_organization_name": "American Psychological Association"
+  },
+  {
+    "id": "journal:S203860005",
+    "type": "journal",
+    "journal_id": "S203860005",
+    "label": "The Quarterly Journal of Economics",
+    "name": "The Quarterly Journal of Economics",
+    "issn_l": "0033-5533",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S88935262",
+    "type": "journal",
+    "journal_id": "S88935262",
+    "label": "The Review of Economic Studies",
+    "name": "The Review of Economic Studies",
+    "issn_l": "0034-6527",
+    "source_type": "journal",
+    "host_organization_name": "Oxford University Press"
+  },
+  {
+    "id": "journal:S81945236",
+    "type": "journal",
+    "journal_id": "S81945236",
+    "label": "Theoretical Chemistry Accounts",
+    "name": "Theoretical Chemistry Accounts",
+    "issn_l": "1432-2234",
+    "source_type": "journal",
+    "host_organization_name": "Springer Science+Business Media"
+  },
+  {
+    "id": "journal:S27569427",
+    "type": "journal",
+    "journal_id": "S27569427",
+    "label": "Thyroid",
+    "name": "Thyroid",
+    "issn_l": "1050-7256",
+    "source_type": "journal",
+    "host_organization_name": "Mary Ann Liebert, Inc."
+  },
+  {
+    "id": "journal:S4306402624",
+    "type": "journal",
+    "journal_id": "S4306402624",
+    "label": "TUScholarShare (Temple University)",
+    "name": "TUScholarShare (Temple University)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "Temple University"
+  },
+  {
+    "id": "journal:S4306400792",
+    "type": "journal",
+    "journal_id": "S4306400792",
+    "label": "University of North Texas Digital Library (University of North Texas)",
+    "name": "University of North Texas Digital Library (University of North Texas)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "University of North Texas"
+  },
+  {
+    "id": "journal:S4210197309",
+    "type": "journal",
+    "journal_id": "S4210197309",
+    "label": "Use R!",
+    "name": "Use R!",
+    "issn_l": "2197-5736",
+    "source_type": "book series",
+    "host_organization_name": "Springer International Publishing"
+  },
+  {
+    "id": "journal:name:utility, probability, and human decision making",
+    "type": "journal",
+    "journal_id": "name:utility, probability, and human decision making",
+    "label": "Utility, Probability, and Human Decision Making",
+    "name": "Utility, Probability, and Human Decision Making",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  },
+  {
+    "id": "journal:S52566953",
+    "type": "journal",
+    "journal_id": "S52566953",
+    "label": "Water Research",
+    "name": "Water Research",
+    "issn_l": "0043-1354",
+    "source_type": "journal",
+    "host_organization_name": "Elsevier BV"
+  },
+  {
+    "id": "journal:S4210188905",
+    "type": "journal",
+    "journal_id": "S4210188905",
+    "label": "Wiley series in probability and statistics",
+    "name": "Wiley series in probability and statistics",
+    "issn_l": "1940-6347",
+    "source_type": "book series",
+    "host_organization_name": "Wiley"
+  },
+  {
+    "id": "journal:S4306400562",
+    "type": "journal",
+    "journal_id": "S4306400562",
+    "label": "Zenodo (CERN European Organization for Nuclear Research)",
+    "name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "source_type": "repository",
+    "host_organization_name": "European Organization for Nuclear Research"
+  },
+  {
+    "id": "journal:name:без журнала",
+    "type": "journal",
+    "journal_id": "name:без журнала",
+    "label": "Без журнала",
+    "name": "Без журнала",
+    "issn_l": null,
+    "source_type": null,
+    "host_organization_name": null
+  }
+]

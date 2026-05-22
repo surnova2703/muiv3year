@@ -1,0 +1,445 @@
+﻿id,name,issn_l,issn,type,is_oa,is_in_doaj,host_organization,host_organization_name
+S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,,,conference,0,0,,
+S4363607764,2021 IEEE/CVF International Conference on Computer Vision (ICCV),,,conference,0,0,,
+S117778295,Academy of Management Journal,0001-4273,"0001-4273, 1948-0989",journal,0,0,https://openalex.org/P4310316266,Academy of Management
+S46763546,Academy of Management Review,0363-7425,"0363-7425, 1930-3807",journal,0,0,https://openalex.org/P4310316266,Academy of Management
+S4210176598,ACM SIGKDD Explorations Newsletter,1931-0145,"1931-0145, 1931-0153",journal,0,0,https://openalex.org/P4310319798,Association for Computing Machinery
+S186921487,ACM SIGSOFT Software Engineering Notes,0163-5948,"0163-5948, 1943-5843",journal,0,0,https://openalex.org/P4310319798,Association for Computing Machinery
+S2492086750,ACM Transactions on Intelligent Systems and Technology,2157-6904,"2157-6904, 2157-6912",journal,0,0,https://openalex.org/P4310319798,Association for Computing Machinery
+S4210200759,Acta Crystallographica Section A,0567-7394,"0567-7394, 1600-8596",journal,0,0,https://openalex.org/P4310320555,International Union of Crystallography
+S4393918093,Acta Crystallographica Section A Foundations and Advances,2053-2733,2053-2733,journal,0,0,,
+S150871906,Acta Crystallographica Section A Foundations of Crystallography,0108-7673,"0108-7673, 1600-5724",journal,0,0,https://openalex.org/P4310320595,Wiley
+S4393918092,Acta Crystallographica Section C Structural Chemistry,2053-2296,2053-2296,journal,0,0,,
+S114502960,Acta Crystallographica Section D Biological Crystallography,0907-4449,"0907-4449, 1399-0047",journal,0,0,https://openalex.org/P4310320595,Wiley
+S198620474,Acta Neuropathologica,0001-6322,"0001-6322, 1432-0533",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S199498439,Acta Psychiatrica Scandinavica,0001-690X,"0001-690X, 1600-0447",journal,0,0,https://openalex.org/P4310320595,Wiley
+S143668711,Administrative Science Quarterly,0001-8392,"0001-8392, 1930-3815",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S114437232,Advanced Drug Delivery Reviews,0169-409X,"0169-409X, 1872-8294",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S16540516,Advances in Engineering Software,0965-9978,"0965-9978, 1873-5339",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S106560479,Advances in experimental social psychology,0065-2601,"0065-2601, 1557-8410",book series,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4210174510,Advances in strategic management,0742-3322,0742-3322,book series,0,0,,
+S139950591,Agronomy Journal,0002-1962,"0002-1962, 1072-9623, 1435-0645",journal,0,0,https://openalex.org/P4310320595,Wiley
+S53336109,AIAA Journal,0001-1452,"0001-1452, 1081-0102, 1533-385X",journal,0,0,https://openalex.org/P4310315709,American Institute of Aeronautics and Astronautics
+S108427512,Alzheimer s & Dementia,1552-5260,"1552-5260, 1552-5279",journal,0,0,https://openalex.org/P4310320595,Wiley
+S23254222,American Economic Review,0002-8282,"0002-8282, 1944-7981",journal,0,0,https://openalex.org/P4310315912,American Economic Association
+S15871148,American Journal of Clinical Pathology,0002-9173,"0002-9173, 1943-7722",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S14903550,American Journal of Enology and Viticulture,0002-9254,"0002-9254, 1943-7749",journal,0,0,https://openalex.org/P4310316470,American Society for Enology and Viticulture
+S170967050,American Journal of Epidemiology,0002-9262,"0002-9262, 1476-6256",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S38866342,American Journal of Physics,0002-9505,"0002-9505, 1943-2909",journal,0,0,https://openalex.org/P4310320257,American Institute of Physics
+S195759676,American Journal of Preventive Medicine,0749-3797,"0749-3797, 1873-2607",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S93356601,American Journal of Respiratory and Critical Care Medicine,1073-449X,"1073-449X, 1535-4970",journal,0,0,https://openalex.org/P4310316311,American Thoracic Society
+S122471516,American Journal of Sociology,0002-9602,"0002-9602, 1537-5390",journal,0,0,https://openalex.org/P4310315672,University of Chicago Press
+S4306462811,American Mathematical Society eBooks,,,ebook platform,0,0,https://openalex.org/P4310321506,Serbian Mathematical Society
+S4306462815,American Psychiatric Association eBooks,,,ebook platform,0,0,https://openalex.org/P4310316602,American Psychiatric Association
+S4306462816,American Psychiatric Association Publishing eBooks,,,ebook platform,0,0,,
+S80146597,American Psychologist,0003-066X,"0003-066X, 1935-990X",journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S157620343,American Sociological Review,0003-1224,"0003-1224, 1939-8271",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S192559872,Analytica Chimica Acta,0003-2670,"0003-2670, 1873-4324",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S7858788,Analytical Biochemistry,0003-2697,"0003-2697, 1096-0309",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S191963794,Analytical Chemistry,0003-2700,"0003-2700, 1520-6882",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S4377196922,Andalas University Repository (Andalas University),,,repository,0,0,https://openalex.org/I55892964,Andalas University
+S139806068,Annals of Dyslexia,0736-9387,"0736-9387, 1934-7243",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S119722071,Annals of Internal Medicine,0003-4819,"0003-4819, 1539-3704",journal,0,0,https://openalex.org/P4310316812,American College of Physicians
+S157664895,Annals of Surgery,0003-4932,"0003-4932, 1528-1140",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S8802318,Annals of the New York Academy of Sciences,0077-8923,"0077-8923, 1749-6632",journal,0,0,https://openalex.org/P4310320595,Wiley
+S4210205963,Annual Review of Ecology and Systematics,0066-4162,"0066-4162, 2330-1902",journal,0,0,https://openalex.org/P4310320373,Annual Reviews
+S61274580,Annual Review of Sociology,0360-0572,"0360-0572, 1545-2115",journal,0,0,https://openalex.org/P4310320373,Annual Reviews
+S158228368,Applied and Environmental Microbiology,0099-2240,"0099-2240, 1070-6291, 1098-5336",journal,0,1,https://openalex.org/P4310320263,American Society for Microbiology
+S2764390947,Applied mathematical sciences,0066-5452,"0066-5452, 2196-968X",book series,0,0,https://openalex.org/P4310319965,Springer Nature
+S94663699,Applied Psychological Measurement,0146-6216,"0146-6216, 1552-3497",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S153476765,Archives of Biochemistry and Biophysics,0003-9861,"0003-9861, 1096-0384",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S126359496,Archives of General Psychiatry,0003-990X,"0003-990X, 1538-3636",journal,0,0,https://openalex.org/P4310320259,American Medical Association
+S4210206803,Archives of Internal Medicine,0003-9926,"0003-9926, 1538-3679",journal,0,0,https://openalex.org/P4310320259,American Medical Association
+S132787887,Arthritis & Rheumatism,0004-3591,"0004-3591, 1529-0131",journal,0,0,https://openalex.org/P4310320595,Wiley
+S4306462866,ASM International eBooks,,,ebook platform,0,0,https://openalex.org/P4310316053,ASM International
+S4210198536,Australian and New Zealand Journal of Public Health,1326-0200,"1326-0200, 1753-6405",journal,0,1,https://openalex.org/P4310320990,Elsevier BV
+S137478622,Behavior Research Methods,1554-351X,"1554-351X, 1554-3528",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S192806854,"Behavior Research Methods, Instruments, & Computers",0743-3808,"0743-3808, 1532-5970",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S186589312,Behaviour Research and Therapy,0005-7967,"0005-7967, 1873-622X",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S127472826,Bell System Technical Journal,0005-8580,"0005-8580, 2376-7154",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S185467459,Biochemia Medica,1330-0962,"1330-0962, 1846-7482",journal,1,1,https://openalex.org/P4310314792,Croatian society of medical biochemistry and laboratory medicine
+S185596183,Biochemical Education,0307-4412,"0307-4412, 1879-1468",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S185534594,Biochemical Pharmacology,0006-2952,"0006-2952, 1873-2968",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S104038378,Biochemistry,0006-2960,"0006-2960, 1520-4995, 1943-295X",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S52395412,Bioinformatics,1367-4803,"1367-4803, 1367-4811",journal,0,1,https://openalex.org/P4310311648,Oxford University Press
+S8265502,Biometrics,0006-341X,"0006-341X, 1541-0420",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S172180718,Biometrika,0006-3444,"0006-3444, 1464-3510",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S56808608,Biopolymers,0006-3525,"0006-3525, 1097-0282",journal,0,0,https://openalex.org/P4310320595,Wiley
+S19032547,BMC Bioinformatics,1471-2105,1471-2105,journal,1,1,https://openalex.org/P4310320256,BioMed Central
+S4393917726,BMJ,1756-1833,1756-1833,journal,0,0,,
+S192814187,BMJ,0959-8138,0959-8138,journal,0,0,https://openalex.org/P4310319945,BMJ
+S183182149,Bone Marrow Transplantation,0268-3369,"0268-3369, 1476-5365",journal,0,0,https://openalex.org/P4310319965,Springer Nature
+S9986330,Breast Care,1661-3791,"1661-3791, 1661-3805",journal,0,0,https://openalex.org/P4310317820,Karger Publishers
+S62966998,British Journal of Cancer,0007-0920,"0007-0920, 1532-1827",journal,0,0,https://openalex.org/P4310319965,Springer Nature
+S93528005,British Journal of Educational Studies,0007-1005,"0007-1005, 1467-8527",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S118940690,Bulletin of Mathematical Biology,0092-8240,"0092-8240, 1522-9602",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S140302479,Bulletin of the American Meteorological Society,0003-0007,"0003-0007, 1520-0477",journal,0,0,https://openalex.org/P4310320260,American Meteorological Society
+S113237667,Business Horizons,0007-6813,"0007-6813, 1873-6068",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S126094547,CA A Cancer Journal for Clinicians,0007-9235,"0007-9235, 1542-4863",journal,1,0,https://openalex.org/P4310320595,Wiley
+S4306462995,Cambridge University Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310311721,Cambridge University Press
+S4210189559,Canadian Graduate Journal of Sociology and Criminology,1927-9825,1927-9825,journal,1,0,https://openalex.org/P4310312927,University of Waterloo
+S4210182832,Canadian Journal of Biochemistry and Physiology,0576-5544,0576-5544,journal,0,0,https://openalex.org/P4310312929,Canadian Science Publishing
+S173335977,Canadian Journal of Physics,0008-4204,"0008-4204, 1208-6045",journal,0,0,https://openalex.org/P4310313060,NRC Research Press
+S126033908,Cancer,0008-543X,"0008-543X, 1045-7410, 1097-0142",journal,0,0,https://openalex.org/P4310320595,Wiley
+S2486275289,Cancer Discovery,2159-8274,"2159-8274, 2159-8290",journal,0,0,https://openalex.org/P4310320273,American Association for Cancer Research
+S110447773,Cell,0092-8674,"0092-8674, 1097-4172",journal,0,0,https://openalex.org/P4310315673,Cell Press
+S161399637,Cellular Physiology and Biochemistry,1015-8987,"1015-8987, 1421-9778",journal,1,1,https://openalex.org/P4310317820,Karger Publishers
+S4306402195,CERN Document Server (European Organization for Nuclear Research),,,repository,0,0,https://openalex.org/I67311998,European Organization for Nuclear Research
+S41143188,Chemical Reviews,0009-2665,"0009-2665, 1520-6890",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S2764375719,Choice Reviews Online,0009-4978,"0009-4978, 1523-8253, 1943-5975",journal,0,0,https://openalex.org/P4310316146,Association of College and Research Libraries
+S116251202,Circulation,0009-7322,"0009-7322, 1524-4539",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S90511721,Cladistics,0748-3007,"0748-3007, 1096-0031",journal,0,0,https://openalex.org/P4310320595,Wiley
+S4306467859,Clarendon Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310320685,Clarendon Press
+S4210217276,Classics in mathematics,1431-0821,"1431-0821, 2512-5257",book series,0,0,https://openalex.org/P4310319965,Springer Nature
+S139212996,Clinical Chemistry,0009-9147,"0009-9147, 1530-8561",journal,0,0,https://openalex.org/P4310320272,American Association for Clinical Chemistry
+S103482838,Communications of the ACM,0001-0782,"0001-0782, 1557-7317",journal,0,0,https://openalex.org/P4310319798,Association for Computing Machinery
+S26018076,Computational Materials Science,0927-0256,"0927-0256, 1879-0801",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S63392143,Computer Networks,1389-1286,"1389-1286, 1872-7069",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S3084184,Computer Networks and ISDN Systems,0169-7552,"0169-7552, 1879-2324",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S60115552,Computers Environment and Urban Systems,0198-9715,"0198-9715, 1873-7587",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S107923245,Computing in Science & Engineering,1521-9615,"1521-9615, 1558-366X",journal,0,0,https://openalex.org/P4310320061,AIP Publishing
+S64506217,Contemporary Educational Psychology,0361-476X,"0361-476X, 1090-2384",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4789869,Contemporary Sociology A Journal of Reviews,0094-3061,"0094-3061, 1939-8638",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S84962792,Controlled Clinical Trials,0197-2456,"0197-2456, 1879-050X",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S36838616,Cytotherapy,1465-3249,"1465-3249, 1477-2566",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S7407052059,Dagstuhl Research Online Publication Server,,,repository,0,0,,
+S121920818,Data Mining and Knowledge Discovery,1384-5810,"1384-5810, 1573-756X",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S4406923043,Defense Technical Information Center (DTIC),,,repository,0,0,,
+S2764877394,Dementia and Geriatric Cognitive Disorders Extra,1664-5464,1664-5464,journal,1,1,https://openalex.org/P4310317820,Karger Publishers
+S104375418,Diabetologia,0012-186X,"0012-186X, 1432-0428",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S4377196569,DROPS (Schloss Dagstuhl – Leibniz Center for Informatics),,,repository,0,0,https://openalex.org/I2799853480,Schloss Dagstuhl – Leibniz Center for Informatics
+S4377196388,DSPACE System - Metalibrary (University of the Coast),,,repository,0,0,https://openalex.org/I4210112678,University of the Coast
+S88315673,Ecological Modelling,0304-3800,"0304-3800, 1872-7026",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S35917800,Ecology,0012-9658,"0012-9658, 1939-9170",journal,0,0,https://openalex.org/P4310320595,Wiley
+S95464858,Econometrica,0012-9682,"0012-9682, 1468-0262",journal,0,0,https://openalex.org/P4310320595,Wiley
+S108845946,Economica,0013-0427,"0013-0427, 1468-0335",journal,0,0,https://openalex.org/P4310320595,Wiley
+S176831015,Educational and Psychological Measurement,0013-1644,"0013-1644, 1552-3888",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S55175622,Educational Researcher,0013-189X,"0013-189X, 1935-102X",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S134335455,Eighteenth-Century Studies,0013-2586,"0013-2586, 1086-315X",journal,0,0,https://openalex.org/P4310315678,Johns Hopkins University Press
+S4306463230,Elsevier eBooks,,,ebook platform,0,0,https://openalex.org/P4310320990,Elsevier BV
+S2914327366,EMBnet journal,2226-6089,2226-6089,journal,0,0,,
+S4210235606,ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam),2622-8912,"2622-8912, 2622-8920",journal,1,1,,
+S4306400115,eScholarship (California Digital Library),,,repository,0,0,https://openalex.org/I2801248553,California Digital Library
+S94775995,European Business Review,0955-534X,"0955-534X, 1758-7107",journal,0,0,https://openalex.org/P4310319811,Emerald Publishing Limited
+S16731738,European Journal of Cancer,0959-8049,"0959-8049, 1879-0852",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S48690275,European Journal of Epidemiology,0393-2990,"0393-2990, 1573-7284",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S103321696,European Journal of Operational Research,0377-2217,"0377-2217, 1872-6860",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4210207896,European Respiratory Journal,0903-1936,"0903-1936, 1399-3003",journal,0,0,https://openalex.org/P4310317833,European Respiratory Society
+S17192686,Evaluation & Research in Education,0950-0790,"0950-0790, 1747-7514",journal,0,0,https://openalex.org/P4310319847,Routledge
+S87560609,Evolution,0014-3820,"0014-3820, 1558-5646",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S47042909,Feminist Review,0141-7789,"0141-7789, 1466-4380",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S192660949,Feminist Studies,0046-3663,"0046-3663, 2153-3873",journal,0,0,https://openalex.org/P4360969297,Feminist Studies
+S83253694,Field Methods,1525-822X,"1525-822X, 1552-3969",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S4210188176,Foundations and Trends® in Machine Learning,1935-8237,"1935-8237, 1935-8245",journal,0,0,https://openalex.org/P4310318575,Now Publishers
+S128018148,Free Radical Biology and Medicine,0891-5849,"0891-5849, 1873-4596",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S169411308,Fuzzy Sets and Systems,0165-0114,"0165-0114, 1872-6801",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S3961818,General Pharmacology The Vascular System,0306-3623,"0306-3623, 1879-0011",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S65932378,Genetics,0016-6731,"0016-6731, 1943-2631",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S187186932,Genetics in Medicine,1098-3600,"1098-3600, 1530-0366",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S81160022,Genome biology,1474-7596,"1474-7596, 1474-760X",journal,1,1,https://openalex.org/P4310320256,BioMed Central
+S29311329,Geological Society London Special Publications,0305-8719,"0305-8719, 2041-4927",journal,0,0,https://openalex.org/P4310311650,Geological Society of London
+S190989491,Gerontology,0304-324X,"0304-324X, 1423-0003",journal,0,0,https://openalex.org/P4310317820,Karger Publishers
+S170199316,Géotechnique,0016-8505,"0016-8505, 1751-7656",journal,0,0,https://openalex.org/P4310311678,ICE Publishing
+S129458801,Harvard Educational Review,0017-8055,"0017-8055, 1943-5045",journal,0,0,https://openalex.org/P4310315711,Harvard University Press
+S4306463363,Harvard University Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310315711,Harvard University Press
+S4210209709,Health Policy,0168-8510,"0168-8510, 1872-6054",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S176903982,Health Promotion Practice,1524-8399,"1524-8399, 1552-6372",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S61446109,Human Relations,0018-7267,"0018-7267, 1741-282X",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S184954342,IEEE Transactions on Automatic Control,0018-9286,"0018-9286, 1558-2523, 2334-3303",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S93787993,IEEE Transactions on Evolutionary Computation,1089-778X,"1089-778X, 1941-0026",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S4210173141,IEEE Transactions on Image Processing,1057-7149,"1057-7149, 1941-0042",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S4502562,IEEE Transactions on Information Theory,0018-9448,"0018-9448, 1557-9654",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S30698027,IEEE Transactions on Knowledge and Data Engineering,1041-4347,"1041-4347, 1558-2191, 2326-3865",journal,0,0,https://openalex.org/P4310320439,IEEE Computer Society
+S42080949,IEEE Transactions on Neural Networks,1045-9227,"1045-9227, 1941-0093",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S199944782,IEEE Transactions on Pattern Analysis and Machine Intelligence,0162-8828,"0162-8828, 1939-3539, 2160-9292",journal,0,0,https://openalex.org/P4310320439,IEEE Computer Society
+S76152103,IEEE Transactions on Systems Man and Cybernetics,0018-9472,"0018-9472, 2168-2909",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S166948985,Industrial Robot the international journal of robotics research and application,0143-991X,"0143-991X, 1758-5791",journal,0,0,https://openalex.org/P4310319811,Emerald Publishing Limited
+S4210192454,Information and Control,0019-9958,"0019-9958, 1878-2981",journal,0,0,https://openalex.org/P4310319955,Academic Press
+S4210208459,Integrative Medicine International,2296-7362,"2296-7362, 2296-7389",journal,1,0,https://openalex.org/P4310317820,Karger Publishers
+S4306401748,Intellectum (Universidad de La Sabana),,,repository,0,0,https://openalex.org/I157650460,Universidad de La Sabana
+S74917805,International Journal for Quality in Health Care,1353-4505,"1353-4505, 1464-3677",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S5382288,International Journal of Cancer,0020-7136,"0020-7136, 1097-0215",journal,0,0,https://openalex.org/P4310320595,Wiley
+S32061424,International Journal of Climatology,0899-8418,"0899-8418, 1097-0088",journal,0,0,https://openalex.org/P4310320595,Wiley
+S25538012,International Journal of Computer Vision,0920-5691,"0920-5691, 1573-1405",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S39841227,International Journal of Forecasting,0169-2070,"0169-2070, 1872-8200",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S189354248,International Journal of Information Management,0268-4012,"0268-4012, 1873-4707",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S174538591,International Journal of Intercultural Relations,0147-1767,"0147-1767, 1873-7552",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S114106686,International Journal of Research & Method in Education,1743-727X,"1743-727X, 1743-7288",journal,0,0,https://openalex.org/P4310319847,Routledge
+S125130336,International Journal of Social Research Methodology,1364-5579,"1364-5579, 1464-5300",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S90857023,International Migration Review,0197-9183,"0197-9183, 1747-7379",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S172573765,JAMA,0098-7484,"0098-7484, 1538-3598",journal,0,0,https://openalex.org/P4310320259,American Medical Association
+S98010888,JNCI Journal of the National Cancer Institute,0027-8874,"0027-8874, 1460-2105",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S4306463499,Johns Hopkins University Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310315678,Johns Hopkins University Press
+S207420867,Journal for the Scientific Study of Religion,0021-8294,"0021-8294, 1468-5906",journal,0,0,https://openalex.org/P4310320595,Wiley
+S137832324,Journal of Advanced Nursing,0309-2402,"0309-2402, 1365-2648",journal,0,0,https://openalex.org/P4310320595,Wiley
+S26308392,Journal of Aesthetics and Art Criticism,0021-8529,"0021-8529, 1540-6245",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S2755299131,Journal of AOAC INTERNATIONAL,0004-5756,0004-5756,journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S79162954,Journal of Applied Crystallography,0021-8898,"0021-8898, 1600-5767",journal,0,0,https://openalex.org/P4310320595,Wiley
+S85739584,Journal of Applied Econometrics,0883-7252,"0883-7252, 1099-1255",journal,0,0,https://openalex.org/P4310320595,Wiley
+S187991544,Journal of Applied Physics,0021-8979,"0021-8979, 1089-7550, 1520-8850",journal,0,0,https://openalex.org/P4310320257,American Institute of Physics
+S166002381,Journal of Applied Psychology,0021-9010,"0021-9010, 1939-1854",journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S139930977,Journal of Artificial Intelligence Research,1076-9757,"1076-9757, 1943-5037",journal,1,1,https://openalex.org/P4310315760,AI Access Foundation
+S2764422239,Journal of Basic Engineering,0021-9223,0021-9223,journal,0,0,https://openalex.org/P4310321320,American Society of Mechanical Engineers
+S140251998,Journal of Biological Chemistry,0021-9258,"0021-9258, 1067-8816, 1083-351X",journal,0,1,https://openalex.org/P4310320990,Elsevier BV
+S11622463,Journal of Biomedical Informatics,1532-0464,"1532-0464, 1532-0480",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S181390377,Journal of Biomolecular NMR,0925-2738,"0925-2738, 1573-5001",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S189701308,Journal of Chemical Theory and Computation,1549-9618,"1549-9618, 1549-9626",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S67905653,Journal of Chiropractic Medicine,1556-3707,"1556-3707, 1556-3715",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S69091592,Journal of Chronic Diseases,0021-9681,"0021-9681, 1878-0679",journal,0,0,https://openalex.org/P4310320146,Pergamon Press
+S64418186,Journal of Clinical Epidemiology,0895-4356,"0895-4356, 1878-5921",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S18971317,Journal of Cognitive Psychotherapy,0889-8391,"0889-8391, 1938-887X",journal,0,0,https://openalex.org/P4310319965,Springer Nature
+S165473669,Journal of Computational and Applied Mathematics,0377-0427,"0377-0427, 1879-1778",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S78571599,Journal of Computational Biology,1066-5277,"1066-5277, 1557-8666",journal,0,0,https://openalex.org/P4310320443,"Mary Ann Liebert, Inc."
+S21117631,Journal of Computational Chemistry,0192-8651,"0192-8651, 1096-987X",journal,0,0,https://openalex.org/P4310320595,Wiley
+S148709879,Journal of Computational Physics,0021-9991,"0021-9991, 1090-2716",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S141020589,Journal of Computer and System Sciences,0022-0000,"0022-0000, 1090-2724",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S30594836,Journal of Computer-Mediated Communication,1083-6101,1083-6101,journal,0,1,https://openalex.org/P4310320595,Wiley
+S28349394,Journal of Dairy Science,0022-0302,"0022-0302, 1525-3198, 1529-9066",journal,0,1,https://openalex.org/P4310320990,Elsevier BV
+S127742747,Journal of Econometrics,0304-4076,"0304-4076, 1872-6895",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S44585919,Journal of Economic Dynamics and Control,0165-1889,"0165-1889, 1879-1743",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S146976949,Journal of Economic Entomology,0022-0493,"0022-0493, 1938-291X",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S158511090,Journal of Electronic Imaging,1017-9909,"1017-9909, 1560-229X",journal,0,0,https://openalex.org/P4310315543,SPIE
+S32271328,Journal of Environmental Psychology,0272-4944,"0272-4944, 1522-9610",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4210168021,Journal of Experimental Psychology,0022-1015,"0022-1015, 1946-1941",journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S149240962,Journal of Financial Economics,0304-405X,"0304-405X, 1879-2774",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S116608325,Journal of General Internal Medicine,0884-8734,"0884-8734, 1525-1497",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S115925768,Journal of Global Optimization,0925-5001,"0925-5001, 1573-2916",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S122290859,Journal of Health and Social Behavior,0022-1465,"0022-1465, 2150-6000",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S55737203,Journal of Hydrology,0022-1694,"0022-1694, 1879-2707",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S201669150,Journal of Immunological Methods,0022-1759,"0022-1759, 1872-7905",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S19366293,Journal of Japan Society for Fuzzy Theory and Intelligent Informatics,1347-7986,"1347-7986, 1881-7203",journal,1,0,https://openalex.org/P4362643760,Japan Society for Fuzzy Theory and Intelligent Informatics
+S118988714,Journal of Machine Learning Research,1532-4435,"1532-4435, 1533-7928",journal,0,0,https://openalex.org/P4310315718,The MIT Press
+S122767448,Journal of Management,0149-2063,"0149-2063, 1557-1211",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S142990027,Journal of Marketing,0022-2429,"0022-2429, 1547-7185",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S119950638,Journal of Marketing Research,0022-2437,"0022-2437, 1547-7193",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S19730638,Journal of materials research/Pratt's guide to venture capital sources,0884-1616,"0884-1616, 0884-2914, 1091-8876, 1092-8928, 2044-5326",journal,0,0,https://openalex.org/P4310319965,Springer Nature
+S46058472,Journal of Molecular Biology,0022-2836,"0022-2836, 1089-8638",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S144184862,Journal of Molecular Evolution,0022-2844,"0022-2844, 1432-1432",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S162544196,Journal of Molecular Graphics,0263-7855,"0263-7855, 1873-4278",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S189140625,Journal of Molecular Liquids,0167-7322,"0167-7322, 1873-3166",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S134773490,Journal of Neurology Neurosurgery & Psychiatry,0022-3050,"0022-3050, 1468-330X",journal,0,0,https://openalex.org/P4310319945,BMJ
+S132751470,Journal of Neuroscience Methods,0165-0270,"0165-0270, 1872-678X",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S29984966,Journal of Personality and Social Psychology,0022-3514,"0022-3514, 1939-1315",journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S190924190,Journal of Physics Condensed Matter,0953-8984,"0953-8984, 1361-648X",journal,0,0,https://openalex.org/P4310320083,IOP Publishing
+S25370267,Journal of Policy Analysis and Management,0276-8739,"0276-8739, 1520-6688",journal,0,0,https://openalex.org/P4310320595,Wiley
+S95323914,Journal of Political Economy,0022-3808,"0022-3808, 1537-534X",journal,0,0,https://openalex.org/P4310315672,University of Chicago Press
+S160879026,Journal of Psychiatric Research,0022-3956,"0022-3956, 1879-1379",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S167943036,Journal of Statistical Mechanics Theory and Experiment,1742-5468,1742-5468,journal,0,0,https://openalex.org/P4310311669,Institute of Physics
+S167961193,Journal of Statistical Software,1548-7660,1548-7660,journal,1,1,https://openalex.org/P4310315759,Foundation for Open Access Statistics
+S114484406,Journal of Synchrotron Radiation,0909-0495,"0909-0495, 1600-5775",journal,0,1,https://openalex.org/P4310320595,Wiley
+S92522684,Journal of the Academy of Marketing Science,0092-0703,"0092-0703, 1552-7824",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S111155417,Journal of the American Chemical Society,0002-7863,"0002-7863, 1520-5126, 1943-2984",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S150273397,Journal of the American Dietetic Association,0002-8223,"0002-8223, 1878-3570",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S204183829,Journal of the American Geriatrics Society,0002-8614,"0002-8614, 1532-5415",journal,0,0,https://openalex.org/P4310320595,Wiley
+S185321339,Journal of the American Society of Echocardiography,0894-7317,"0894-7317, 1097-6795",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4394736638,Journal of the American Statistical Association,0162-1459,"0162-1459, 1537-274X",journal,0,0,,
+S131264402,Journal of the Atmospheric Sciences,0022-4928,"0022-4928, 1520-0469",journal,0,0,https://openalex.org/P4310320260,American Meteorological Society
+S183498172,Journal of the Franklin Institute,0016-0032,"0016-0032, 1879-2693",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S105775785,Journal of the Mechanics and Physics of Solids,0022-5096,"0022-5096, 1873-4782",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S169988927,Journal of the Operational Research Society,0160-5682,"0160-5682, 1476-9360",journal,0,0,https://openalex.org/P4310319703,Palgrave Macmillan
+S4210239914,Journal of the Royal Statistical Society Series A (General),0035-9238,"0035-9238, 2397-2327",journal,0,0,https://openalex.org/P4310320595,Wiley
+S145009937,Journal of the Royal Statistical Society Series B (Statistical Methodology),1369-7412,"1369-7412, 1467-9868",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S4210214951,Journal of the Society for Industrial and Applied Mathematics,0368-4245,"0368-4245, 2168-3484",journal,0,0,https://openalex.org/P4310320508,Society for Industrial and Applied Mathematics
+S109682412,Journal of Theoretical Biology,0022-5193,"0022-5193, 1095-8541",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S72902805,Journal of Wildlife Management,0022-541X,"0022-541X, 1937-2817",journal,0,0,https://openalex.org/P4310320595,Wiley
+S167815962,Kidney & Blood Pressure Research,1420-4096,"1420-4096, 1423-0143",journal,1,1,https://openalex.org/P4310317820,Karger Publishers
+S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),,,repository,0,0,https://openalex.org/I4383465926,LA Referencia
+S149285975,Land Economics,0023-7639,"0023-7639, 1543-8325",journal,0,0,https://openalex.org/P4310315918,University of Wisconsin Press
+S106296714,Lecture notes in computer science,0302-9743,"0302-9743, 1611-3349",book series,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S118039931,Lecture notes in mathematics,0075-8434,"0075-8434, 1617-9692",book series,0,0,https://openalex.org/P4310319965,Springer Nature
+S9435936,Long Range Planning,0024-6301,"0024-6301, 1873-1872",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S26760650,LWT,0023-6438,"0023-6438, 1096-1127",journal,0,1,https://openalex.org/P4310320990,Elsevier BV
+S4306488689,Macat Library eBooks,,,ebook platform,0,0,,
+S62148650,Machine Learning,0885-6125,"0885-6125, 1573-0565",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S4210196053,Man,0025-1496,"0025-1496, 2397-2548",journal,0,0,https://openalex.org/P4310311696,Royal Anthropological Institute of Great Britain and Ireland
+S33323087,Management Science,0025-1909,"0025-1909, 1526-5501",journal,0,0,https://openalex.org/P4310315699,Institute for Operations Research and the Management Sciences
+S102439543,Mathematics of Computation,0025-5718,"0025-5718, 1088-6842",journal,0,0,https://openalex.org/P4310315719,American Mathematical Society
+S4306463610,McGraw-Hill Book Company,,,ebook platform,0,0,https://openalex.org/P4310320788,McGraw Hill Book Company
+S79233773,Medical Care,0025-7079,"0025-7079, 1537-1948",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S4210197683,Medical Entomology and Zoology,0424-7086,"0424-7086, 2185-5609",journal,0,0,https://openalex.org/P4310319750,Japan Society of Medical Entomology and Zoology
+S14544163,Medicine & Science in Sports & Exercise,0195-9131,"0195-9131, 1530-0315",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S73539393,Methods,1046-2023,"1046-2023, 1095-9130",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S182211142,Methods in enzymology on CD-ROM/Methods in enzymology,0076-6879,"0076-6879, 1079-2376, 1557-7988",book series,0,0,https://openalex.org/P4310319955,Academic Press
+S4210173168,Midwest Journal of Political Science,0026-3397,"0026-3397, 2325-6958",journal,0,0,,
+S57293258,MIS Quarterly,0276-7783,"0276-7783, 2162-9730",journal,0,0,https://openalex.org/P4327875293,MIS Quarterly
+S117777245,Modelling and Simulation in Materials Science and Engineering,0965-0393,"0965-0393, 1361-651X",journal,0,0,https://openalex.org/P4310320083,IOP Publishing
+S72851247,Modern Language Journal,0026-7902,"0026-7902, 1540-4781",journal,0,0,https://openalex.org/P4310320595,Wiley
+S57552105,Molecular Biology and Evolution,0737-4038,"0737-4038, 1537-1719",journal,0,1,https://openalex.org/P4310311648,Oxford University Press
+S22454499,Molecular Ecology,0962-1083,"0962-1083, 1365-294X",journal,0,0,https://openalex.org/P4310320595,Wiley
+S165787973,Molecular Ecology Notes,1471-8278,"1471-8278, 1471-8286",journal,0,0,https://openalex.org/P4310320595,Wiley
+S64961995,Molecular Ecology Resources,1755-098X,"1755-098X, 1755-0998",journal,0,0,https://openalex.org/P4310320595,Wiley
+S204809294,Molecular Physics,0026-8976,"0026-8976, 1362-3028",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S200893805,Molecular Systems Biology,1744-4292,1744-4292,journal,1,1,https://openalex.org/P4310319965,Springer Nature
+S4306463641,National Academies Press eBooks,,,ebook platform,0,0,,
+S137773608,Nature,0028-0836,"0028-0836, 1476-4687",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S106963461,Nature Biotechnology,1087-0156,"1087-0156, 1546-1696",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S137905309,Nature Genetics,1061-4036,"1061-4036, 1546-1718",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S103895331,Nature Materials,1476-1122,"1476-1122, 1476-4660",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S127827428,Nature Methods,1548-7091,"1548-7091, 1548-7105",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S7822423,Nature Nanotechnology,1748-3387,"1748-3387, 1748-3395",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S109387254,Nature Protocols,1750-2799,"1750-2799, 1754-2189",journal,0,0,https://openalex.org/P4310319908,Nature Portfolio
+S168252155,Neonatology,1661-7800,"1661-7800, 1661-7819",journal,0,0,https://openalex.org/P4310317820,Karger Publishers
+S207023548,Neural Computation,0899-7667,"0899-7667, 1530-888X",journal,0,0,https://openalex.org/P4310315718,The MIT Press
+S123019304,Neural Networks,0893-6080,"0893-6080, 1879-2782",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S45693802,Neurocomputing,0925-2312,"0925-2312, 1872-8286",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S103225281,NeuroImage,1053-8119,"1053-8119, 1095-9572",journal,0,1,https://openalex.org/P4310320990,Elsevier BV
+S79704628,Neurology,0028-3878,"0028-3878, 1526-632X",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S86238769,Neuropeptides,0143-4179,"0143-4179, 1532-2785",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S165368631,Neuropsychologia,0028-3932,"0028-3932, 1873-3514",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S62468778,New England Journal of Medicine,0028-4793,"0028-4793, 1533-4406",journal,0,0,https://openalex.org/P4310320239,Massachusetts Medical Society
+S145630073,Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment,0168-9002,"0168-9002, 1872-9576",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S134668137,Nucleic Acids Research,0305-1048,"0305-1048, 1362-4954, 1362-4962",journal,0,1,https://openalex.org/P4310311648,Oxford University Press
+S193378857,Nucleic Acids Symposium Series,0261-3166,"0261-3166, 1746-8272",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S4210205683,Numerische Mathematik,0029-599X,"0029-599X, 0945-3245",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S62565178,Nurse Education Today,0260-6917,"0260-6917, 1532-2793",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S57227388,Nursing Research,0029-6562,"0029-6562, 1538-9847",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S38078933,Nutrition Reviews,0029-6643,"0029-6643, 1753-4887",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S116972989,OMICS A Journal of Integrative Biology,1536-2310,"1536-2310, 1557-8100",journal,0,0,https://openalex.org/P4310320443,"Mary Ann Liebert, Inc."
+S206124708,Organization Science,1047-7039,"1047-7039, 1526-5455",journal,0,0,https://openalex.org/P4310315699,Institute for Operations Research and the Management Sciences
+S64744539,Organizational Behavior and Human Decision Processes,0749-5978,"0749-5978, 1095-9920",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4306463708,Oxford University Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310311648,Oxford University Press
+S22496335,Pacific Affairs,0030-851X,"0030-851X, 1715-3379",journal,0,0,https://openalex.org/P4310313051,University of British Columbia
+S130519153,Palaeontologia Electronica,1094-8074,"1094-8074, 1532-3056, 1935-3952",journal,1,1,,
+S39041608,Patient Education and Counseling,0738-3991,"0738-3991, 1873-5134",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S151820558,Pattern Recognition Letters,0167-8655,"0167-8655, 1872-7344",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4210199927,Performance + Instruction,0884-1985,"0884-1985, 1932-0116",journal,0,0,https://openalex.org/P4310320595,Wiley
+S203465302,Pflügers Archiv - European Journal of Physiology,0031-6768,"0031-6768, 0365-267X, 1432-2013",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S2764821508,Philosophy study,2159-5313,"2159-5313, 2159-5321",journal,0,0,,
+S181332294,Physical Chemistry Chemical Physics,1463-9076,"1463-9076, 1463-9084",journal,0,0,https://openalex.org/P4310320556,Royal Society of Chemistry
+S54862371,Physical Review,0031-899X,"0031-899X, 1536-6065",journal,0,0,https://openalex.org/P4310320257,American Institute of Physics
+S24807848,Physical Review Letters,0031-9007,"0031-9007, 1079-7114, 1092-0145",journal,0,0,https://openalex.org/P4310320261,American Physical Society
+S4210219937,"Physical review. A, General physics",0556-2791,0556-2791,journal,0,0,https://openalex.org/P4310320257,American Institute of Physics
+S4210174675,"Physical review. B, Condensed matter",0163-1829,"0163-1829, 1095-3795",journal,0,0,https://openalex.org/P4310320261,American Physical Society
+S4210208989,"Physical review. B, Solid state",0556-2805,0556-2805,journal,0,0,https://openalex.org/P4310320261,American Physical Society
+S180907581,Physics Today,0031-9228,"0031-9228, 1945-0699",journal,0,0,https://openalex.org/P4310320061,AIP Publishing
+S185046733,Physiologia Plantarum,0031-9317,"0031-9317, 1399-3054",journal,0,0,https://openalex.org/P4310320595,Wiley
+S11781297,Plant and Soil,0032-079X,"0032-079X, 1573-5036",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S42294715,PLANT PHYSIOLOGY,0032-0889,"0032-0889, 1532-2548",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S46033839,Plasma and Fusion Research,1880-6821,1880-6821,journal,1,0,https://openalex.org/P4328135220,Japan Society of Plasma Science and Nuclear Fusion Research
+S197939330,PLoS Medicine,1549-1277,"1549-1277, 1549-1676",journal,1,1,https://openalex.org/P4310315706,Public Library of Science
+S202381698,PLoS ONE,1932-6203,1932-6203,journal,1,1,https://openalex.org/P4310315706,Public Library of Science
+S4306402433,"Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",,,repository,0,0,,
+S4306463805,Princeton University Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310316492,Princeton University Press
+S68686220,Proceedings of the IEEE,0018-9219,"0018-9219, 1558-2256",journal,0,0,https://openalex.org/P4310319808,Institute of Electrical and Electronics Engineers
+S125754415,Proceedings of the National Academy of Sciences,0027-8424,"0027-8424, 1091-6490",journal,0,0,https://openalex.org/P4310320052,National Academy of Sciences
+S3006183880,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,1364-5021,"1364-5021, 1471-2946",journal,0,0,https://openalex.org/P4310319787,Royal Society
+S173499201,Process Biochemistry,1359-5113,"1359-5113, 1873-3298",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S84074229,Psychiatry Research,0165-1781,"0165-1781, 1872-7123",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S75627607,Psychological Bulletin,0033-2909,"0033-2909, 1939-1455",journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S16647404,Psychological Inquiry,1047-840X,"1047-840X, 1532-7965",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S35223124,Psychological Review,0033-295X,"0033-295X, 1939-1471",journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S4306463811,Psychology Press eBooks,,,ebook platform,0,0,,
+S186480540,Psychometrika,0033-3123,"0033-3123, 1860-0980",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S4306525036,PubMed,,,repository,0,0,https://openalex.org/I1299303238,National Institutes of Health
+S142816121,Pure and Applied Chemistry,0033-4545,"0033-4545, 1365-3075",journal,0,0,https://openalex.org/P4310321427,International Union of Pure and Applied Chemistry
+S32648145,Qualitative Health Research,1049-7323,"1049-7323, 1552-7557",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S51001188,Qualitative Research in Psychology,1478-0887,"1478-0887, 1478-0895",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S2764513707,Qualitative Research in Sport Exercise and Health,2159-676X,"2159-676X, 2159-6778",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S70522100,Quarterly Journal of the Royal Meteorological Society,0035-9009,"0035-9009, 1477-870X",journal,0,0,https://openalex.org/P4310320595,Wiley
+S50280174,Radiology,0033-8419,"0033-8419, 1527-1315",journal,0,0,https://openalex.org/P4310315931,Radiological Society of North America
+S4306401271,RePEc: Research Papers in Economics,,,repository,0,0,https://openalex.org/I77793887,Federal Reserve Bank of St. Louis
+S73260565,Reviews of Modern Physics,0034-6861,"0034-6861, 1538-4527, 1539-0756",journal,0,0,https://openalex.org/P4310320261,American Physical Society
+S2739018597,Revista de Administração Contemporânea,1415-6555,"1415-6555, 1982-7849",journal,1,1,https://openalex.org/P4310312426,Associação Nacional de Pós-Graduação e Pesquisa em Administração (ANPAD)
+S115516397,Revue économique,0035-2764,"0035-2764, 1950-6694",journal,0,0,https://openalex.org/P4310311471,Sciences Po
+S4306463867,Sage eBooks,,,ebook platform,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S72071028,Scandinavian Journal of Statistics,0303-6898,"0303-6898, 1467-9469",journal,0,0,https://openalex.org/P4310320595,Wiley
+S117485531,Schizophrenia Bulletin,0586-7614,"0586-7614, 1745-1701, 1745-1707",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S3880285,Science,0036-8075,"0036-8075, 1095-9203",journal,0,0,https://openalex.org/P4310315823,American Association for the Advancement of Science
+S2737427234,Science Advances,2375-2548,2375-2548,journal,1,1,https://openalex.org/P4310315823,American Association for the Advancement of Science
+S155937366,Science Signaling,1937-9145,"1937-9145, 1945-0877",journal,0,0,https://openalex.org/P4310315823,American Association for the Advancement of Science
+S2607323502,Scientific Data,2052-4463,2052-4463,journal,1,1,https://openalex.org/P4310319908,Nature Portfolio
+S196734849,Scientific Reports,2045-2322,2045-2322,journal,1,1,https://openalex.org/P4310319908,Nature Portfolio
+S148561398,Scientometrics,0138-9130,"0138-9130, 1588-2861",journal,0,0,https://openalex.org/P4310320108,Springer Nature (Netherlands)
+S160107561,SIAM Review,0036-1445,"0036-1445, 1095-7200",journal,0,0,https://openalex.org/P4310320508,Society for Industrial and Applied Mathematics
+S42921845,SLEEP,0161-8105,"0161-8105, 1550-9109",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S130611943,Social Forces,0037-7732,"0037-7732, 1534-7605",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S26186134,Social Networks,0378-8733,"0378-8733, 1879-2111",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4306463922,Society for Industrial and Applied Mathematics eBooks,,,ebook platform,0,0,https://openalex.org/P4310320508,Society for Industrial and Applied Mathematics
+S9536269,Sociological Methods & Research,0049-1241,"0049-1241, 1552-8294",journal,0,0,https://openalex.org/P4310320017,SAGE Publishing
+S2506067282,SoftwareX,2352-7110,2352-7110,journal,1,1,https://openalex.org/P4310320990,Elsevier BV
+S90259781,Soil Science,0038-075X,"0038-075X, 1538-9243",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S59755854,Soil Science Society of America Journal,0361-5995,"0361-5995, 1435-0661",journal,0,0,https://openalex.org/P4310320595,Wiley
+S16296580,Southern Economic Journal,0038-4038,"0038-4038, 2325-8012",journal,0,0,https://openalex.org/P4310320595,Wiley
+S5152312,Spatial Vision,0169-1015,"0169-1015, 1568-5683",journal,0,0,https://openalex.org/P4310320561,Brill
+S4210187552,Springer series in statistics,0172-7397,"0172-7397, 2197-568X",book series,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S161743634,Stanford Law Review,0038-9765,"0038-9765, 1939-8581",journal,0,0,https://openalex.org/P4310316196,Stanford Law School
+S4306463952,Stanford University Press eBooks,,,ebook platform,0,0,,
+S4210187487,Statisctics and computing/Statistics and computing,1431-8784,"1431-8784, 2197-1706",book series,0,0,https://openalex.org/P4310319965,Springer Nature
+S12967704,Statistical Science,0883-4237,"0883-4237, 2168-8745",journal,0,0,https://openalex.org/P4310319881,Institute of Mathematical Statistics
+S4210186945,Statistics for biology and health,2197-5663,"2197-5663, 2197-5671",journal,0,0,,
+S55189604,Statistics in Medicine,0277-6715,"0277-6715, 1097-0258",journal,0,0,https://openalex.org/P4310320595,Wiley
+S102949365,Strategic Management Journal,0143-2095,"0143-2095, 1097-0266",journal,0,0,https://openalex.org/P4310320595,Wiley
+S78020522,Structural Equation Modeling A Multidisciplinary Journal,1070-5511,"1070-5511, 1532-8007",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S120411249,Swarm Intelligence,1935-3812,"1935-3812, 1935-3820",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S65478581,Systematic Biology,1063-5157,"1063-5157, 1076-836X",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S82452678,Systematic Reviews,2046-4053,2046-4053,journal,1,1,https://openalex.org/P4310320256,BioMed Central
+S985303,Technometrics,0040-1706,"0040-1706, 1537-2723",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S97631563,Telos,0090-6514,"0090-6514, 1940-459X",journal,0,0,https://openalex.org/P4320800767,Telos
+S134425043,The American Journal of Human Genetics,0002-9297,"0002-9297, 1537-6605",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S5762857,The Annals of Mathematical Statistics,0003-4851,"0003-4851, 2168-8990",journal,0,0,https://openalex.org/P4310319881,Institute of Mathematical Statistics
+S119757635,The Annals of Statistics,0090-5364,"0090-5364, 2168-8966",journal,0,0,https://openalex.org/P4310319881,Institute of Mathematical Statistics
+S100695177,The Astronomical Journal,0004-6256,"0004-6256, 1538-3881",journal,0,1,https://openalex.org/P4310311669,Institute of Physics
+S1980519,The Astrophysical Journal,0004-637X,"0004-637X, 1538-4357",journal,0,1,https://openalex.org/P4310320083,IOP Publishing
+S44643521,The Computer Journal,0010-4620,"0010-4620, 1460-2067",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S45992627,The Economic Journal,0013-0133,"0013-0133, 1468-0297, 1742-0350",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S130337233,The Gerontologist,0016-9013,"0016-9013, 1758-5341",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S96410829,The Journal of Cell Biology,0021-9525,"0021-9525, 1540-8140",journal,0,0,https://openalex.org/P4310315676,Rockefeller University Press
+S77047749,The Journal of Chemical Physics,0021-9606,"0021-9606, 1089-7690, 1520-9032",journal,0,0,https://openalex.org/P4310320257,American Institute of Physics
+S17992710,The Journal of Clinical Psychiatry,0160-6689,"0160-6689, 1534-8628, 1555-2101",journal,0,0,https://openalex.org/P4322614534,"Physicians Postgraduate Press, Inc."
+S5353659,The Journal of Finance,0022-1082,"0022-1082, 1540-6261",journal,0,0,https://openalex.org/P4310320595,Wiley
+S181027741,The Journal of Interdisciplinary History,0022-1953,"0022-1953, 1530-9169",journal,0,0,https://openalex.org/P4310315718,The MIT Press
+S998097505,The Journal of Law and Economics,0022-2186,"0022-2186, 1537-5285",journal,0,0,https://openalex.org/P4310315672,University of Chicago Press
+S42468459,The Journal of Marketing Theory and Practice,1069-6679,"1069-6679, 1944-7175",journal,0,0,https://openalex.org/P4310320547,Taylor & Francis
+S13566964,The Journal of Nervous and Mental Disease,0022-3018,"0022-3018, 1539-736X",journal,0,0,https://openalex.org/P4310315671,Lippincott Williams & Wilkins
+S4210214273,The Journal of Open Source Software,2475-9066,2475-9066,journal,1,1,https://openalex.org/P4310315853,Open Journals
+S24459064,The Journal of Physical Chemistry,0022-3654,"0022-3654, 1541-5740",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S185621672,The Journal of Physical Chemistry B,1520-5207,"1520-5207, 1520-6106",journal,0,0,https://openalex.org/P4310320006,American Chemical Society
+S2090548,The Journal of Physiology,0022-3751,"0022-3751, 1469-7793",journal,0,0,https://openalex.org/P4310320595,Wiley
+S969433497,The Journals of Gerontology Series A,1079-5006,"1079-5006, 1758-535X",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S49861241,The Lancet,0140-6736,"0140-6736, 1474-547X",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4306463997,The MIT Press eBooks,,,ebook platform,0,0,https://openalex.org/P4310315718,The MIT Press
+S67862205,The Plant Journal,0960-7412,"0960-7412, 1365-313X",journal,0,0,https://openalex.org/P4310320595,Wiley
+S2764583119,The Psychological Monographs,0096-9753,0096-9753,journal,0,0,https://openalex.org/P4310320262,American Psychological Association
+S203860005,The Quarterly Journal of Economics,0033-5533,"0033-5533, 1531-4650",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S88935262,The Review of Economic Studies,0034-6527,"0034-6527, 1467-937X",journal,0,0,https://openalex.org/P4310311648,Oxford University Press
+S81945236,Theoretical Chemistry Accounts,1432-2234,"1432-2234, 1432-881X",journal,0,0,https://openalex.org/P4310319900,Springer Science+Business Media
+S27569427,Thyroid,1050-7256,"1050-7256, 1557-9077",journal,0,0,https://openalex.org/P4310320443,"Mary Ann Liebert, Inc."
+S4306402624,TUScholarShare (Temple University),,,repository,0,0,https://openalex.org/I84392919,Temple University
+S4306400792,University of North Texas Digital Library (University of North Texas),,,repository,0,0,https://openalex.org/I123534392,University of North Texas
+S4210197309,Use R!,2197-5736,"2197-5736, 2197-5744",book series,0,0,https://openalex.org/P4310319972,Springer International Publishing
+S52566953,Water Research,0043-1354,"0043-1354, 1879-2448",journal,0,0,https://openalex.org/P4310320990,Elsevier BV
+S4210188905,Wiley series in probability and statistics,1940-6347,"1940-6347, 1940-6517",book series,0,0,https://openalex.org/P4310320595,Wiley
+S4306400562,Zenodo (CERN European Organization for Nuclear Research),,,repository,1,0,https://openalex.org/I67311998,European Organization for Nuclear Research
+name:machine learning under malware attack,Machine Learning under Malware Attack,,,,0,0,,
+name:social theory re-wired,Social Theory Re-Wired,,,,0,0,,
+name:proceedings of the 2019 conference of the north,Proceedings of the 2019 Conference of the North,,,,0,0,,
+name:an integrated approach to communication theory and research,An Integrated Approach to Communication Theory and Research,,,,0,0,,
+name:food and culture,Food and Culture,,,,0,0,,
+name:2018 ieee/cvf conference on computer vision and pattern recognition,2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition,,,,0,0,,
+name:a new era in global health,A New Era in Global Health,,,,0,0,,
+name:2017 ieee international conference on computer vision (iccv),2017 IEEE International Conference on Computer Vision (ICCV),,,,0,0,,
+name:2017 ieee conference on computer vision and pattern recognition (cvpr),2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR),,,,0,0,,
+name:2016 ieee conference on computer vision and pattern recognition (cvpr),2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR),,,,0,0,,
+name:http://www.cs.unc.edu/%7ewliu/papers/ssd.pdf,http://www.cs.unc.edu/%7Ewliu/papers/ssd.pdf,,,,0,0,,
+name:proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining,Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,,,,0,0,,
+name:2015 ieee international conference on computer vision (iccv),2015 IEEE International Conference on Computer Vision (ICCV),,,,0,0,,
+name:2015 ieee conference on computer vision and pattern recognition (cvpr),2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR),,,,0,0,,
+name:http://www.cs.toronto.edu/%7ersalakhu/papers/srivastava14a.pdf,http://www.cs.toronto.edu/%7Ersalakhu/papers/srivastava14a.pdf,,,,0,0,,
+name:proceedings of the 2014 conference on empirical methods in natural language processing (emnlp),Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP),,,,0,0,,
+name:2014 ieee conference on computer vision and pattern recognition,2014 IEEE Conference on Computer Vision and Pattern Recognition,,,,0,0,,
+name:encyclopedia of behavioral medicine,Encyclopedia of Behavioral Medicine,,,,0,0,,
+name:http://www-stat.stanford.edu/~hastie/papers/eslii.pdf,http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf,,,,0,0,,
+name:encyclopedia of the sciences of learning,Encyclopedia of the Sciences of Learning,,,,0,0,,
+name:rugman reviews,Rugman Reviews,,,,0,0,,
+name:biostatistics and microbiology: a survival manual,Biostatistics and Microbiology: A Survival Manual,,,,0,0,,
+name:electronics: a first course,Electronics: A First Course,,,,0,0,,
+name:2005 ieee computer society conference on computer vision and pattern recognition (cvpr'05),2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05),,,,0,0,,
+name:proceedings of the 2001 ieee computer society conference on computer vision and pattern recognition. cvpr 2001,Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001,,,,0,0,,
+name:proceedings of icnn'95 - international conference on neural networks,Proceedings of ICNN'95 - International Conference on Neural Networks,,,,0,0,,
+name:proceedings of the 40th annual meeting on association for computational linguistics  - acl '02,Proceedings of the 40th Annual Meeting on Association for Computational Linguistics  - ACL '02,,,,0,0,,
+name:proceedings of the seventh ieee international conference on computer vision,Proceedings of the Seventh IEEE International Conference on Computer Vision,,,,0,0,,
+name:http://www2.cs.uh.edu/~ceick/7363/papers/dbscan.pdf,http://www2.cs.uh.edu/~ceick/7363/Papers/dbscan.pdf,,,,0,0,,
+name:action control,Action Control,,,,0,0,,
+"name:utility, probability, and human decision making","Utility, Probability, and Human Decision Making",,,,0,0,,
+name:speech acts,Speech Acts,,,,0,0,,
+name:без журнала,Без журнала,,,,0,0,,
