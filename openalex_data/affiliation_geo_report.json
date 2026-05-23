@@ -1,0 +1,23 @@
+{
+  "institutions_total": 1019,
+  "openalex_found_this_run": 0,
+  "nominatim_found_this_run": 0,
+  "failed_this_run": 1,
+  "cache_with_geo": 1011,
+  "database_updates": [
+    {
+      "db": "affiliations_database.sqlproj",
+      "updated_rows": 4845,
+      "total_with_geo": 9839
+    },
+    {
+      "db": "articles_database.sqlproj",
+      "updated_rows": 4845,
+      "total_with_geo": 8969
+    }
+  ],
+  "export": {
+    "file": "C:\\Users\\surno\\OneDrive\\Рабочий стол\\VKR\\openalex_data\\affiliations.json",
+    "rows": 10084
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File (Short Path)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "c:\\Users\\surno\\OneDrive\\F0A5~1\\VKR\\import.py",
+      "cwd": "c:\\Users\\surno\\OneDrive\\F0A5~1\\VKR",
+      "console": "integratedTerminal"
+    }
+  ]
+}
