@@ -1,0 +1,49 @@
+{
+  "copied_files": [
+    "article_data.json",
+    "article_summary.txt",
+    "article_summary_latest.txt",
+    "journals_database.sqlproj",
+    "publications_database.sqlproj",
+    "persons_database.sqlproj",
+    "affiliations_database.sqlproj",
+    "articles_database.sqlproj"
+  ],
+  "exports": {
+    "journals": {
+      "rows": 444,
+      "json": "journals.json",
+      "csv": "journals.csv"
+    },
+    "publications": {
+      "rows": 1000,
+      "json": "publications.json",
+      "csv": "publications.csv"
+    },
+    "publication_topics": {
+      "rows": 2594,
+      "json": "publication_topics.json",
+      "csv": "publication_topics.csv"
+    },
+    "publication_keywords": {
+      "rows": 11105,
+      "json": "publication_keywords.json",
+      "csv": "publication_keywords.csv"
+    },
+    "persons": {
+      "rows": 3734,
+      "json": "persons.json",
+      "csv": "persons.csv"
+    },
+    "person_publications": {
+      "rows": 4336,
+      "json": "person_publications.json",
+      "csv": "person_publications.csv"
+    },
+    "affiliations": {
+      "rows": 10084,
+      "json": "affiliations.json",
+      "csv": "affiliations.csv"
+    }
+  }
+}
