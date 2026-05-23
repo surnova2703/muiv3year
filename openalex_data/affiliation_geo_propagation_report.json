@@ -1,0 +1,20 @@
+{
+  "updates": [
+    {
+      "db": "affiliations_database.sqlproj",
+      "updated_rows": 0,
+      "with_geo_before": 9839,
+      "with_geo_after": 9839
+    },
+    {
+      "db": "articles_database.sqlproj",
+      "updated_rows": 0,
+      "with_geo_before": 8969,
+      "with_geo_after": 8969
+    }
+  ],
+  "export": {
+    "file": "C:\\Users\\surno\\OneDrive\\Рабочий стол\\VKR\\openalex_data\\affiliations.json",
+    "rows": 10084
+  }
+}

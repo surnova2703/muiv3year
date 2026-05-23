@@ -1,3 +1,4 @@
+import gzip
 import json
 import mimetypes
 import psycopg2
@@ -266,11 +267,21 @@ def load_json_file(path):
 class OpenAlexHandler(BaseHTTPRequestHandler):
     def send_json(self, payload, status=200):
         data = json.dumps(payload, ensure_ascii=False, default=str).encode("utf-8")
-        self.send_response(status)
-        self.send_header("Content-Type", "application/json; charset=utf-8")
-        self.send_header("Content-Length", str(len(data)))
-        self.send_header("Access-Control-Allow-Origin", "*")
-        self.end_headers()
+        accept_encoding = self.headers.get("Accept-Encoding", "")
+        if "gzip" in accept_encoding:
+            data = gzip.compress(data)
+            self.send_response(status)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Content-Encoding", "gzip")
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Access-Control-Allow-Origin", "*")
+            self.end_headers()
+        else:
+            self.send_response(status)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Access-Control-Allow-Origin", "*")
+            self.end_headers()
         self.wfile.write(data)
 
     def send_text(self, text, status=200):
