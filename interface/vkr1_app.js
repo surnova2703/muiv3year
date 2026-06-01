@@ -1644,6 +1644,9 @@ async function init() {
   }
 }
 
+el.loadPgBtn = document.getElementById("loadPgBtn");
+el.loadPgBtn.addEventListener("click", loadServersqlprojData);
+
 el.importBtn.addEventListener("click", importSelectedFiles);
 el.exportDbBtn.addEventListener("click", exportDatabase);
 el.demoDbBtn.addEventListener("click", loadDemoToDatabase);
