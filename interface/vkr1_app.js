@@ -807,6 +807,9 @@ function renderMap() {
       const point = eventData && eventData.points && eventData.points[0];
       if (point && point.customdata) selectArticle(point.customdata);
     });
+    // Force a resize after initial render in case the container had not reached its final
+    // dimensions when newPlot ran (e.g. on first page load before layout stabilises).
+    requestAnimationFrame(() => Plotly.Plots.resize(el.mapPlot));
   });
 }
 
@@ -1393,7 +1396,9 @@ function setViewMode(mode) {
   el.mapViewBtn.classList.toggle("secondary",   !isMap);
   el.graphViewBtn.classList.toggle("secondary", !isGraph);
   if (isMap && window.Plotly) {
-    setTimeout(() => Plotly.Plots.resize(el.mapPlot), 0);
+    // Use a nested rAF so the resize fires after the current rAF render batch
+    // (which is where scheduleMapAndGraph renders the initial map).
+    requestAnimationFrame(() => requestAnimationFrame(() => Plotly.Plots.resize(el.mapPlot)));
   }
 }
 
