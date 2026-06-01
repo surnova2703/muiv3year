@@ -14,6 +14,8 @@ HOST = "127.0.0.1"
 PORT = 8000
 LOG_PATH = BASE_DIR / "openalex_server.runtime.log"
 
+_articles_cache = None
+
 
 def log(message):
     text = str(message)
@@ -63,6 +65,10 @@ def group_by(rows, key):
 
 
 def load_articles_from_db():
+    global _articles_cache
+    if _articles_cache is not None:
+        return _articles_cache
+
     conn = get_conn()
     try:
         with conn.cursor() as cur:
@@ -162,6 +168,7 @@ def load_articles_from_db():
             }
         )
 
+    _articles_cache = articles
     return articles
 
 
