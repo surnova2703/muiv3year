@@ -809,7 +809,8 @@ function renderMap() {
     });
     // Force a resize after initial render in case the container had not reached its final
     // dimensions when newPlot ran (e.g. on first page load before layout stabilises).
-    requestAnimationFrame(() => Plotly.Plots.resize(el.mapPlot));
+    // Two nested rAFs ensure the resize fires after the browser has committed layout and paint.
+    requestAnimationFrame(() => requestAnimationFrame(() => Plotly.Plots.resize(el.mapPlot)));
   });
 }
 
