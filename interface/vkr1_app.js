@@ -1404,66 +1404,6 @@ function toggleDbPanel(open) {
   if (show) el.dbView.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
-let tableSortCol = "year";
-let tableSortAsc = false;
-
-function renderTable() {
-  const query = (el.tableSearch ? el.tableSearch.value : "").toLowerCase().trim();
-  let rows = state.articles.slice();
-
-  if (query) {
-    rows = rows.filter(a =>
-      (a.title || "").toLowerCase().includes(query) ||
-      (a.journal || "").toLowerCase().includes(query) ||
-      (a.authors || []).some(au => au.toLowerCase().includes(query)) ||
-      (a.topics || []).some(t => t.toLowerCase().includes(query))
-    );
-  }
-
-  rows.sort((a, b) => {
-    let va = a[tableSortCol] ?? "";
-    let vb = b[tableSortCol] ?? "";
-    if (tableSortCol === "year") { va = Number(va) || 0; vb = Number(vb) || 0; }
-    else {
-      va = Array.isArray(va) ? va.join(", ") : String(va);
-      vb = Array.isArray(vb) ? vb.join(", ") : String(vb);
-    }
-    if (va < vb) return tableSortAsc ? -1 : 1;
-    if (va > vb) return tableSortAsc ? 1 : -1;
-    return 0;
-  });
-
-  el.pubTableBody.innerHTML = rows.map(a => `
-    <tr>
-      <td>${a.year || "—"}</td>
-      <td>${escapeHtml(a.title || "—")}</td>
-      <td>${escapeHtml(a.journal || "—")}</td>
-      <td>${escapeHtml((a.authors || []).slice(0, 3).join(", ") + (a.authors && a.authors.length > 3 ? " и др." : ""))}</td>
-      <td>${escapeHtml((a.topics || []).slice(0, 2).join(", "))}</td>
-    </tr>
-  `).join("");
-
-  if (el.tableFooter) {
-    el.tableFooter.textContent = `Показано: ${rows.length} из ${state.articles.length} статей`;
-  }
-}
-
-if (el.tableSearch) {
-  el.tableSearch.addEventListener("input", () => { if (state.currentMode === "table") renderTable(); });
-}
-
-if (el.pubTable) {
-  el.pubTable.querySelector("thead").addEventListener("click", e => {
-    const th = e.target.closest("th");
-    if (!th) return;
-    const col = th.dataset.col;
-    if (!col) return;
-    if (tableSortCol === col) tableSortAsc = !tableSortAsc;
-    else { tableSortCol = col; tableSortAsc = true; }
-    renderTable();
-  });
-}
-
 async function loadDemoToDatabase() {
   await saveArticlesToDb(DEMO_ARTICLES);
   await refreshDatabaseArticles();
@@ -1613,35 +1553,37 @@ function describeActiveFilters() {
 }
 
 async function init() {
-  try {
-    state.db = await openDatabase();
+  // Show demo immediately — page is interactive before any async work completes
+  state.articles = DEMO_ARTICLES.slice();
+  setViewMode("map");
+  renderAll();
+  scheduleMapAndGraph();
+  setStatus("Загрузка данных из PostgreSQL...");
 
-    // Show demo immediately — do NOT read IndexedDB (may contain stale 10K articles)
-    state.articles = DEMO_ARTICLES.slice();
-    setViewMode("map");
-    renderAll();
-    scheduleMapAndGraph();
-    setStatus("Загрузка данных из PostgreSQL...");
+  // Start API fetch immediately — does NOT wait for IndexedDB
+  const apiFetch = fetchLocalJson("/api/articles")
+    .then((articles) => {
+      if (!articles || !articles.length) {
+        setStatus("Сервер вернул пустой ответ. Показан демонстрационный набор.");
+        return;
+      }
+      state.databaseArticles = articles;
+      state.databaseArticles.sort((a, b) => Number(b.year || 0) - Number(a.year || 0));
+      setRawAnalysis("Данные получены через API локального сервера из PostgreSQL.", { endpoint: "/api/articles", articles: articles.length });
+      showAllArticlesAndRender();
+      setStatus(`Загружено из PostgreSQL: ${state.databaseArticles.length} статей.`);
+    })
+    .catch(() => {
+      setStatus("Сервер недоступен. Показан демонстрационный набор.");
+    });
 
-    // Load from server in background — page is already interactive
-    fetchLocalJson("/api/articles")
-      .then((articles) => {
-        if (!articles || !articles.length) {
-          setStatus("Сервер вернул пустой ответ. Показан демонстрационный набор.");
-          return;
-        }
-        state.databaseArticles = articles;
-        state.databaseArticles.sort((a, b) => Number(b.year || 0) - Number(a.year || 0));
-        setRawAnalysis("Данные получены через API локального сервера из PostgreSQL.", { endpoint: "/api/articles", articles: articles.length });
-        showAllArticlesAndRender();
-        setStatus(`Загружено из PostgreSQL: ${state.databaseArticles.length} статей.`);
-      })
-      .catch(() => {
-        setStatus("Сервер недоступен. Показан демонстрационный набор.");
-      });
-  } catch (err) {
-    setStatus(`Ошибка инициализации: ${err.message}`);
-  }
+  // Open IndexedDB in parallel — optional, failures do not affect map data
+  openDatabase()
+    .then((db) => { state.db = db; })
+    .catch((err) => { console.warn("IndexedDB недоступен:", err); });
+
+  // Await the API fetch so unhandled rejections are not swallowed
+  await apiFetch;
 }
 
 el.loadPgBtn = document.getElementById("loadPgBtn");
