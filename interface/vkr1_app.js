@@ -9,25 +9,25 @@ const PER_PAGE = 100;
 const DEMO_ARTICLES = [
   {
     id: "W2194775991",
-    title: "Deep Residual Learning for Image Recognition",
-    year: 2016,
-    journal: "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
-    authors: ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"],
-    topics: ["computer vision", "deep learning", "image recognition"],
-    keywords: ["residual learning", "cnn", "classification"],
-    affiliations: [{ place: "Microsoft Research Cambridge, UK", lat: 52.2053, lon: 0.1218 }],
-    abstractText: "Предложена архитектура residual network для обучения глубоких нейронных сетей."
+    title: "Mapping the structure of science",
+    year: 2009,
+    journal: "Scientometrics",
+    authors: ["Kevin W. Boyack", "Richard Klavans"],
+    topics: ["scientometrics", "bibliometrics", "science mapping"],
+    keywords: ["co-citation", "journal clustering", "knowledge structure"],
+    affiliations: [{ place: "SciTech Strategies, Albuquerque, USA", lat: 35.0844, lon: -106.6504 }],
+    abstractText: "Предложен подход к картированию структуры науки на основе совместного цитирования журналов."
   },
   {
     id: "W2911964244",
-    title: "Random Forests",
-    year: 2001,
-    journal: "Machine Learning",
-    authors: ["Leo Breiman"],
-    topics: ["machine learning", "classification", "ensemble methods"],
-    keywords: ["random forest", "decision tree", "bagging"],
-    affiliations: [{ place: "University of California, Berkeley, USA", lat: 37.8719, lon: -122.2585 }],
-    abstractText: "Описан ансамблевый метод случайных лесов для классификации и регрессии."
+    title: "Bibliometric methods in management and organization",
+    year: 2013,
+    journal: "Organizational Research Methods",
+    authors: ["Anne-Wil Harzing", "Satu Alakangas"],
+    topics: ["bibliometrics", "research evaluation", "citation analysis"],
+    keywords: ["h-index", "citation counts", "publication output"],
+    affiliations: [{ place: "Middlesex University, London, UK", lat: 51.5897, lon: -0.2277 }],
+    abstractText: "Описаны библиометрические методы оценки исследовательской продуктивности."
   },
   {
     id: "W1979290264",
